@@ -8,7 +8,7 @@
 appearance:
   theme_day: coffee
   theme_night: coffee
-  font: mr robot
+  font: native
   font_size: s
 
 # SEO
