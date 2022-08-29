@@ -43,7 +43,7 @@ item:
     date_end: ''
     date_start: '2020-01-01'
     description: ''
-    organization: NPTEL, IIT Madras
+    organization: NPTEL IIT Madras
     organization_url: https://archive.nptel.ac.in/noc/index.html
     title: 'Introduction to Machine Learning'
     url: https://archive.nptel.ac.in/noc/courses/noc22/SEM1/noc22-cs29/
