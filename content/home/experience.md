@@ -30,7 +30,6 @@ experience:
     date_start: '2022-08-08'
     date_end: ''
     description: |2-
-    
     Responsibilites include -
         * Analyzing Arizona’s Medicaid data to enable data-driven informed decisions.  
         * Providing project management support and assistance to ensure project progress and effective communication with key stakeholders for the State Opioid Response (SOR) project.  
