@@ -51,6 +51,21 @@ experience:
         - Reduced fetch and load time by 65% by successfully reproducing SQL queries for Google Data Studio dashboards in BigQuery.
         - Leveraged Google Analytics and BigQuery to track and analyze web behavior and activity aimed at increasing prospective student enrollments for
         the ASUOnline website.
+       
+  - title: Machine Learning Intern
+    company: iPing Data Labs
+    company_url: 'https://www.iping.in/'
+    company_logo: ''
+    location: Mumbai, India
+    date_start: '2021-08-01'
+    date_end: '2021-11-30'
+    description: |2-
+        - Developed a deep learning powered Automated Invoice Data Extractor for an Australian client using Python to detect and extract valuable information from digital energy invoices using Computer Vision and NLP, eliminating manual labor by 80%.
+        - Trained an Object Detection model that localized 10+ relevant data points in 25+ invoice formats to achieve 95%+ F1-Score.
+        - Developed and trained various machine learning models for spatial text detection, keyword extraction and company and table identification and
+        classification on energy bills and performed statistical inferencing on the results to match stakeholder expectations.
+        - Devised a parsing algorithm to extract and structure data from invoice PDFs using Tabula, OCR, and Regex to engineer model data for training.
+        - Interpreted 1,25,000+ images from CCTV feeds to detect 7 object categories during day and night for Traffic Detection and Tracking.
 
 design:
   columns: '2'
