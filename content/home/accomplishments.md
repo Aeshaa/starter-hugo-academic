@@ -39,14 +39,14 @@ item:
     organization_url: https://analytics.google.com/analytics/academy/
     title: Advanced Google Analytics
     url: https://analytics.google.com/analytics/academy/course/7
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL20CS29S1PC801843
+    date_end: ''
+    date_start: '2020-01-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: NPTEL, IIT Madras
+    organization_url: https://archive.nptel.ac.in/noc/index.html
+    title: 'Introduction to Machine Learning'
+    url: https://archive.nptel.ac.in/noc/courses/noc22/SEM1/noc22-cs29/
 
 design:
   columns: '2'
