@@ -60,8 +60,8 @@ experience:
     date_start: '2021-08-01'
     date_end: '2021-11-30'
     description: |2-
-        - Developed a deep learning powered Automated Invoice Data Extractor for an Australian client using Python to detect and extract valuable information from digital energy invoices using Computer Vision and NLP, eliminating manual labor by 80%.
-        - Trained an Object Detection model that localized 10+ relevant data points in 25+ invoice formats to achieve 95%+ F1-Score.
+        - Developed a deep learning powered Automated Invoice Data Extractor for an Australian client to detect and extract valuable information from digital energy invoices using Computer Vision and NLP, eliminating manual labor by 80%.
+        - Trained an Object Detection model to localize 10+ relevant data points in 25+ invoice formats to achieve 95%+ F1-Score.
         - Developed and trained various machine learning models for spatial text detection, keyword extraction and company and table identification and
         classification on energy bills and performed statistical inferencing on the results to match stakeholder expectations.
         - Devised a parsing algorithm to extract and structure data from invoice PDFs using Tabula, OCR, and Regex to engineer model data for training.
