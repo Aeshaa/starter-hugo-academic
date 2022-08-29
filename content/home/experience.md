@@ -68,7 +68,7 @@ experience:
         - Devised a parsing algorithm to extract and structure data from invoice PDFs using Tabula, OCR, and Regex to engineer model data for training.
         - Interpreted 1,25,000+ images from CCTV feeds to detect 7 object categories during day and night for Traffic Detection and Tracking.
     
-   - title: Team Lead and Python Developer Intern
+  - title: Team Lead and Python Developer Intern
     company: TinkTank
     company_url: 'http://tinktank.co.in/'
     company_logo: ''
