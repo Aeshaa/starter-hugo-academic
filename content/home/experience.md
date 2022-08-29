@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Graduate Services Assistant - Data Science Research Aide
+    company: School of Computing and Augmented Intelligence at Arizona State University
+    company_url: 'https://scai.engineering.asu.edu/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Tempe, Arizona
+    date_start: '2022-08-08'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    
+        • Analyzing Arizona’s Medicaid data to enable data-driven informed decisions.
+        • Project Manager for the State Opioid Response (SOR) project.
+        • Researched and curated a timeline reflecting changes made during the past 5 years and the impact of COVID-19 on Opioid Use Disorder policies.
+      
 
   - title: Professor of Semiconductor Physics
     company: University X
