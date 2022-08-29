@@ -77,11 +77,10 @@ experience:
     date_end: '2021-12-31'
     description: |2-
         - Led a team of 4 interns and contributed heavily to brainstorming and executing an end-to-end workflow to build an analytics tool that enables
-        recruiters and hiring managers to analyze, track and visualize team performance metrics/KPIs.
+          recruiters and hiring managers to analyze, track and visualize team performance metrics/KPIs.
         - Implemented a Business Rule Engine in Python that performed Custom Data Validation on 40+ attributes to obtain clean data for visualization
-        using custom dashboards for each user type.
+          using custom dashboards for each user type.
         - Designed and developed the ETL pipeline to map data from complex datasets and multiple data sources using PostgreSQL and Django.
-
 
 design:
   columns: '2'
