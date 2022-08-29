@@ -45,12 +45,12 @@ experience:
     date_start: '2022-03-01'
     date_end: '2020-08-12'
     description: |2-
-    - Developed Machine Learning predictive models to track and predict students’ performances over the semester for various courses.
-    - Aggregated student data to perform quantitative analysis from various data sources and transformed them into actionable insights.
-    - Produced data to promote student success by providing target audience lists of students to receive interventions based on the predictions.
-    - Reduced fetch and load time by 65% by successfully reproducing SQL queries for Google Data Studio dashboards in BigQuery.
-    - Leveraged Google Analytics and BigQuery to track and analyze web behavior and activity aimed at increasing prospective student enrollments for
-    the ASUOnline website.
+        - Developed Machine Learning predictive models to track and predict students’ performances over the semester for various courses.
+        - Aggregated student data to perform quantitative analysis from various data sources and transformed them into actionable insights.
+        - Produced data to promote student success by providing target audience lists of students to receive interventions based on the predictions.
+        - Reduced fetch and load time by 65% by successfully reproducing SQL queries for Google Data Studio dashboards in BigQuery.
+        - Leveraged Google Analytics and BigQuery to track and analyze web behavior and activity aimed at increasing prospective student enrollments for
+        the ASUOnline website.
 
 design:
   columns: '2'
