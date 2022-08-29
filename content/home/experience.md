@@ -30,7 +30,7 @@ experience:
     date_start: '2022-08-08'
     date_end: ''
     description: |2-
-        - Analyzing Arizona’s Medicaid data to enable data-driven informed decisions.  
+        * Analyzing Arizona’s Medicaid data to enable data-driven informed decisions.  
         * Project Manager for the State Opioid Response (SOR) project.  
         * Researched and curated a timeline reflecting changes made during the past 5 years and the impact of COVID-19 on Opioid Use Disorder policies.  
       
