@@ -30,7 +30,7 @@ education:
     - course: Bachelor of Engineering in Computer Science and Engineering
       institution: University of Mumbai
       year: 2021
-
+---
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
