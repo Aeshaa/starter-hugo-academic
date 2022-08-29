@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: coffee
-  theme_night: minimal
+  theme_day: 1950s
+  theme_night: 1950s
   font: minimal
   font_size: s
 
