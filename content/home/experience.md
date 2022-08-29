@@ -37,14 +37,20 @@ experience:
         - Researching and curating a timeline that reflects changes made during the past 5 years and the impact of COVID-19 on Opioid Use Disorder policies.  
       
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Machine Learning and Artificial Intelligence Specialist Assistant
+    company: EdPlus at Arizona State University
+    company_url: 'https://edplus.asu.edu/'
+    company_logo: ''
+    location: Tempe, Arizona
+    date_start: '2022-03-01'
+    date_end: '2020-08-12'
+    description: |2-
+    - Developed Machine Learning predictive models to track and predict students’ performances over the semester for various courses.
+    - Aggregated student data to perform quantitative analysis from various data sources and transformed them into actionable insights.
+    - Produced data to promote student success by providing target audience lists of students to receive interventions based on the predictions.
+    - Reduced fetch and load time by 65% by successfully reproducing SQL queries for Google Data Studio dashboards in BigQuery.
+    - Leveraged Google Analytics and BigQuery to track and analyze web behavior and activity aimed at increasing prospective student enrollments for
+    the ASUOnline website.
 
 design:
   columns: '2'
