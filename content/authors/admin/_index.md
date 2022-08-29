@@ -6,7 +6,8 @@ title: Aesha Shah
 superuser: true
 
 # Role/position/tagline
-role: Graduate Services Assistant - Data Science Research Aide | Graduate Student, Computer Science
+role: Graduate Services Assistant - Data Science Research Aide |
+Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
