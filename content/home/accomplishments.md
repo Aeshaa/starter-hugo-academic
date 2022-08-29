@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2022-06-21'
     description: ''
-    organization: Coursera
+    organization: Google
     organization_url: https://www.coursera.org/
     title: Google Data Analytics Professional Certificate
     url: 'https://grow.google/certificates/data-analytics/#?modal_active=none'
