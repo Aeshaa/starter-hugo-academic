@@ -14,7 +14,7 @@ organizations:
     url: https://www.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include Machine Learning and Data Science.
 
 # Interests to show in About widget
 interests:
