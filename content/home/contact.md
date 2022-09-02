@@ -25,33 +25,33 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: ashah116@asu.edu
+  phone: 602 566 42 50
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 1260 E University Dr
+    city: Tempe
+    region: AZ
+    postcode: '85281'
     country: United States
     country_code: US
-  coordinates:
+<!--   coordinates:
     latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
+    longitude: '-122.1697' -->
+<!--   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2 -->
+<!--   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  appointment_url: 'https://calendly.com' -->
   contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
+      name: Let's connect!
+      link: 'https://www.linkedin.com/in/aesha15/'
+<!--     - icon: video
       icon_pack: fas
       name: Zoom Me
       link: 'https://zoom.com'
-
+ -->
 design:
   columns: '2'
 ---
