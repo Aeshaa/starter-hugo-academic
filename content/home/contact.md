@@ -34,23 +34,23 @@ content:
     postcode: '85281'
     country: United States
     country_code: US
-<!--   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697' -->
-<!--   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2 -->
-<!--   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com' -->
+#  coordinates:
+#    latitude: '37.4275'
+#    longitude: '-122.1697'
+#  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#  office_hours:
+#    - 'Monday 10:00 to 13:00'
+#    - 'Wednesday 09:00 to 10:00'
+  appointment_url: 'https://calendly.com'
   contact_links:
     - icon: linkedin
       icon_pack: fab
       name: Let's connect!
       link: 'https://www.linkedin.com/in/aesha15/'
-<!--     - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com' -->
+#    - icon: video
+#      icon_pack: fas
+#      name: Zoom Me
+#      link: 'https://zoom.com'
 
 design:
   columns: '2'
