@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "ShapeNSoul"
-summary: ""
+summary: "Mobile Application using Flutter and Firestore for a Naturopathy Clinic"
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Developed a Mobile Application using Flutter and Firestore for a Naturopathy Clinic to facilitate appointment scheduling, notification alerts, and
+personalized profile and diet charts for each patient.
