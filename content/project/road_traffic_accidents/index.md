@@ -39,10 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-- Led and implemented an end-to-end Machine Learning project pipeline to classify Accident Severity from a highly imbalanced dataset.  \\
-
-- Scrutinized four predictive models and boosted the model accuracy up to 84% by incorporating hyper-parameter tuning.  \\
-
-- Evaluated the models using Cross-Validation, and performed Feature Importance to make informed conclusions.  \\
+- Led and implemented an end-to-end Machine Learning project pipeline to classify Accident Severity from a highly imbalanced dataset.
+- Scrutinized four predictive models and boosted the model accuracy up to 84% by incorporating hyper-parameter tuning.
+- Evaluated the models using Cross-Validation, and performed Feature Importance to make informed conclusions.
 
