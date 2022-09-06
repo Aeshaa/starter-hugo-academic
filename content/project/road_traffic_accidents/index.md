@@ -40,9 +40,9 @@ url_video: ""
 slides: ""
 ---
 
-• Led and implemented an end-to-end Machine Learning project pipeline to classify Accident Severity from a highly imbalanced dataset.  
+- Led and implemented an end-to-end Machine Learning project pipeline to classify Accident Severity from a highly imbalanced dataset.  
 
-• Scrutinized four predictive models and boosted the model accuracy up to 84% by incorporating hyper-parameter tuning.  
+- Scrutinized four predictive models and boosted the model accuracy up to 84% by incorporating hyper-parameter tuning.  
 
-• Evaluated the models using Cross-Validation, and performed Feature Importance to make informed conclusions.  
+- Evaluated the models using Cross-Validation, and performed Feature Importance to make informed conclusions.  
 
