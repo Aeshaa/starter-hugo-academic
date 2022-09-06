@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "AR_for_CSI"
-summary: ""
+title: "Augmented Reality for Crime Scene Investigation"
+summary: "Research on the impact of various Augmented Reality technologies"
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Researched, analyzed and presented the impact of various Augmented Reality technologies and potential challenges in their implementation.
