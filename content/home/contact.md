@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: ashah116@asu.edu
-  phone: 602 566 42 50
+#  phone: 602 566 42 50
   address:
     street: 1260 E University Dr
     city: Tempe
