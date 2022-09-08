@@ -28,9 +28,9 @@ content:
   email: ashah116@asu.edu
 #  phone: 602 566 42 50
   address:
-    street: 1260 E University Dr
+    street: 
     city: Tempe
-    region: AZ
+    region: Arizona
     postcode: '85281'
     country: United States
     country_code: US
