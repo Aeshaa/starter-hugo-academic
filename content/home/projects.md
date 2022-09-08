@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Machine Learning
+      tag: Machine Learning
+    - name: Mobile App Development
+      tag: Mobile App Development
     - name: Other
       tag: Demo
 
