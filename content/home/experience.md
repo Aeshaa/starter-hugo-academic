@@ -43,7 +43,7 @@ experience:
     company_logo: ''
     location: Tempe, Arizona
     date_start: '2022-03-01'
-    date_end: '2020-08-12'
+    date_end: '2022-08-12'
     description: |2-
         - Developed Machine Learning predictive models to track and predict students’ performances over the semester for various courses.
         - Aggregated student data to perform quantitative analysis from various data sources and transformed them into actionable insights.
@@ -73,8 +73,8 @@ experience:
     company_url: 'http://tinktank.co.in/'
     company_logo: ''
     location: Mumbai, India
-    date_start: '2021-05-01'
-    date_end: '2021-12-31'
+    date_start: '2020-05-01'
+    date_end: '2020-12-31'
     description: |2-
         - Led a team of 4 interns and contributed heavily to brainstorming and executing an end-to-end workflow to build an analytics tool that enables
           recruiters and hiring managers to analyze, track and visualize team performance metrics/KPIs.
