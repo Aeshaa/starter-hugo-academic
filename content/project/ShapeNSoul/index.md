@@ -4,7 +4,9 @@
 title: "ShapeNSoul"
 summary: "Mobile Application using Flutter and Firestore for a Naturopathy Clinic"
 authors: []
-tags: []
+tags: 
+  - Mobile App Development
+  - Flutter
 categories: []
 date: 2022-09-06T04:09:50-07:00
 
