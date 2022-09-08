@@ -4,7 +4,8 @@
 title: "Augmented Reality for Crime Scene Investigation"
 summary: "Research on the impact of various Augmented Reality technologies"
 authors: []
-tags: []
+tags: 
+  - Augmented Reality
 categories: []
 date: 2022-09-06T04:10:15-07:00
 
