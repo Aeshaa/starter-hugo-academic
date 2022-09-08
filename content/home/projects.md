@@ -29,6 +29,8 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: Machine Learning
+    - name: Augmented Reality
+      tag: Augmented Reality
     - name: Mobile App Development
       tag: Mobile App Development
     - name: Other
