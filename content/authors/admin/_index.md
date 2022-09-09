@@ -61,15 +61,18 @@ highlight_name: true
 
 ---
 
+
+
 I am Aesha Shah, a graduate student pursuing my Master's in Computer Science at Arizona State University (ASU).
 
 Equipped with skills and a fair understanding of Python, I am keenly interested in learning more about the fields of Data Science and Machine Learning. I’m creative, analytical and strategic in my ways and thrive on adapting to and succeeding in problem solving and complex, challenging environments. I also take pride in having the ability to look at the big picture while having an eye for attention to detail simultaneously.
 
 While not working or studying, you will probably find me strumming my guitar and reading.
 
-Words I live by: Keep Learning. Be Kind and Helpful. Always Create Value
+Words I live by: Keep Learning. Be Kind and Helpful. Always Create Value.
 
 Currently, I am open to exciting internship/full-time roles in Data Science/Machine Learning and would love to hear more about it. I’m also always up for interesting conversations and any stories/experiences you might have to share. Please feel free to reach out and I’d be happy to chat about either!
+
 
 
 
