@@ -33,8 +33,8 @@ content:
       tag: Augmented Reality
     - name: Mobile App Development
       tag: Mobile App Development
-    - name: Other
-      tag: Demo
+    # - name: Other
+    #   tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
