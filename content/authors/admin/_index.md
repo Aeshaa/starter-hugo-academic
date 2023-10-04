@@ -6,7 +6,7 @@ title: Aesha Shah
 superuser: true
 
 # Role/position/tagline
-role: Graduate Services Assistant - Data Science Research Aide |  Computer Science
+role: ex-Data Engineer Intern, Amazon |  Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
