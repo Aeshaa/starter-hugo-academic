@@ -22,6 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Data Engineer Intern
+    company: Amazon.com, Inc
+    company_url: 'https://scai.engineering.asu.edu/'
+    company_logo: ''
+    location: Bellevue, Washington
+    date_start: '2022-22-05'
+    date_end: '2022-11-08'
+    description: |2-
+        - Enabled cost saving on the ETL pipelines and Redshift Cluster usage by optimizing identification and enabling rectification of performance detrimental gaps and incorrect keys in sub-par jobs and queries.
+        - Leveraging insights from my dashboard will cut costs by at least 40% and boost team efficiency by over 80%.
+        - Proposed innovative AI integration strategies to stimulate growth and promote innovation within existing organizational projects.
+
+
+
   - title: Graduate Services Assistant - Data Science Research Aide
     company: School of Computing and Augmented Intelligence at Arizona State University
     company_url: 'https://scai.engineering.asu.edu/'
