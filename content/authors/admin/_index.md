@@ -6,7 +6,7 @@ title: Aesha Shah
 superuser: true
 
 # Role/position/tagline
-role: ex-Data Engineer Intern, Amazon |  Computer Science
+role: ex-Data Engineer Intern @ Amazon |  Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,7 +24,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Science in Computer Science
+    - course: Master of Science in Computer Science (Artificial Intelligence)
       institution: Arizona State University
       year: 2023
     - course: Bachelor of Engineering in Computer Science and Engineering
