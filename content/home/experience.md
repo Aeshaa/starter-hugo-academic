@@ -28,8 +28,8 @@ experience:
     company_url: 'https://scai.engineering.asu.edu/'
     company_logo: ''
     location: Bellevue, Washington
-    date_start: '2022-22-05'
-    date_end: '2022-11-08'
+    date_start: '2022-05-22'
+    date_end: '2022-08-11'
     description: |2-
         - Enabled cost saving on the ETL pipelines and Redshift Cluster usage by optimizing identification and enabling rectification of performance detrimental gaps and incorrect keys in sub-par jobs and queries.
         - Leveraging insights from my dashboard will cut costs by at least 40% and boost team efficiency by over 80%.
@@ -43,7 +43,7 @@ experience:
     company_logo: ''
     location: Tempe, Arizona
     date_start: '2022-08-08'
-    date_end: ''
+    date_end: '2022-12-24'
     description: |2-
          Responsibilites include:  
         
