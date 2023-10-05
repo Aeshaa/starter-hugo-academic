@@ -36,6 +36,19 @@ experience:
         - Proposed innovative AI integration strategies to stimulate growth and promote innovation within existing organizational projects.
 
 
+  - title: Research Analyst
+    company: Luminosity Lab at Arizona State University
+    company_url: 'https://theluminositylab.com/'
+    company_logo: ''
+    location: Tempe, Arizona
+    date_start: '2022-01-08'
+    date_end: ''
+    description: |2-
+    Rodel Project -
+      - Contributing towards creating an innovative and interactive simulator of Arizona that enables leaders and citizens to explore the implications of proposed policies ranging from education to infrastructure hence aiding in informed decision-making.
+      - Developed and optimized the user interface using ReactJS and Three.js to improve user experience and responsiveness by 28%.
+      - Implemented a KD-Tree Nearest Neighbor model to accurately assign students to schools by considering factors like proximity and school capacity.
+      
 
   - title: Data Science Research Assistant
     company: School of Computing and Augmented Intelligence at Arizona State University
