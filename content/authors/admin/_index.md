@@ -14,7 +14,7 @@ organizations:
     url: https://www.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Machine Learning and Data Science.
+bio: Machine Learning and Data Science enthusiast.
 
 # Interests to show in About widget
 interests:
