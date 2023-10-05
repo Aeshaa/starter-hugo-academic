@@ -8,7 +8,7 @@ tags:
   - Research
   - Machine Learning
 categories: []
-date: 2022-09-06T04:10:15-07:00
+date:
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,7 +18,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
