@@ -33,8 +33,6 @@ content:
       tag: Research
     - name: Machine Learning
       tag: Machine Learning
-    - name: Augmented Reality
-      tag: Augmented Reality
     - name: Mobile App Development
       tag: Mobile App Development
     - name: Image Processing
