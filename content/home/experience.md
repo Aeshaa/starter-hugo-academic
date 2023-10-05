@@ -44,7 +44,7 @@ experience:
     date_start: '2022-01-08'
     date_end: ''
     description: |2-
-      Rodel Project (http://rodel.theluminositylab.com/) -
+      [Rodel Project](http://rodel.theluminositylab.com/) -
 
        - Contributing towards creating an innovative and interactive simulator of Arizona that enables leaders and citizens to explore the implications of proposed policies ranging from education to infrastructure hence aiding in informed decision-making.
        - Developed and optimized the user interface using ReactJS and Three.js to improve user experience and responsiveness by 28%.
