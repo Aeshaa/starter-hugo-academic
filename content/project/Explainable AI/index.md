@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Explainable AI for Adversarially Trained deep learning models"
+title: "Explainable AI for Adversarially Trained Deep-Learning Models"
 summary: "Designing a visualization system for training models that resist adversarial attacks and remain interpretable"
 authors: []
 tags: 
@@ -18,7 +18,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: "Right"
   preview_only: false
 
 # Custom links (optional).
