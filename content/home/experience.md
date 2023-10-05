@@ -37,7 +37,7 @@ experience:
 
 
 
-  - title: Graduate Services Assistant - Data Science Research Aide
+  - title: Data Science Research Assistant
     company: School of Computing and Augmented Intelligence at Arizona State University
     company_url: 'https://scai.engineering.asu.edu/'
     company_logo: ''
