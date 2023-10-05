@@ -23,4 +23,4 @@
 [imaging]
   hint = 'photo'
   quality = 100
-  resampleFilter = 'box'
+  resampleFilter = 'CatmullRom'
