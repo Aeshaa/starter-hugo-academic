@@ -1,15 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Plant Leaf Disease Detection and Identification"
-summary: "An end-to-end Machine Learning project to classify Healthy and Diseased Plant Leaves"
+title: "Explainable AI for adversarially trained models"
+summary: "To design a visualization system for training models that resist adversarial attacks and remain interpretable"
 authors: []
 tags: 
+  - Research
   - Machine Learning
-  - Image Processing
-  - Projects
 categories: []
-date: 
+date: 2022-09-06T04:10:15-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,7 +18,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Bottom"
+  focal_point: ""
   preview_only: false
 
 # Custom links (optional).
@@ -42,4 +41,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-- Led and implemented an end-to-end Machine Learning projectto classify Healthy and Diseased Plant Leaves.
+
+Researched on concept-based methods in Explainable AI, to maintain the interpretibility of adverserially trained deep learning models.
