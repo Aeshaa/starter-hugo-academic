@@ -20,6 +20,8 @@ bio: My interests include Machine Learning and Data Science.
 interests:
   - Machine Learning
   - Data Science
+  - Music
+  - Books
 
 # Education to show in About widget
 education:
