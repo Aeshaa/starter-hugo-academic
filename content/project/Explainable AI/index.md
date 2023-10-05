@@ -7,7 +7,7 @@ authors: []
 tags: 
   - Research
   - Machine Learning
-  
+
 categories: []
 date:
 
@@ -19,7 +19,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Right"
+  focal_point: "BottomRight"
   preview_only: false
 
 # Custom links (optional).
