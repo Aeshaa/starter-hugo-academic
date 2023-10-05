@@ -66,11 +66,11 @@ experience:
         - Researching and curating a timeline that reflects changes made during the past 5 years and the impact of COVID-19 on Opioid Use Disorder policies.  
       
 
-  - title: Machine Learning and Artificial Intelligence Specialist Assistant
+  - title: Machine Learning and Artificial Intelligence Specialist 
     company: EdPlus at Arizona State University
     company_url: 'https://edplus.asu.edu/'
     company_logo: ''
-    location: Tempe, Arizona
+    location: Scottsdale, Arizona
     date_start: '2022-03-01'
     date_end: '2022-08-12'
     description: |2-
@@ -97,7 +97,7 @@ experience:
         - Devised a parsing algorithm to extract and structure data from invoice PDFs using Tabula, OCR, and Regex to engineer model data for training.
         - Interpreted 1,25,000+ images from CCTV feeds to detect 7 object categories during day and night for Traffic Detection and Tracking.
     
-  - title: Team Lead and Python Developer Intern
+  - title: Team Lead and Software Development Intern
     company: TinkTank
     company_url: 'http://tinktank.co.in/'
     company_logo: ''
