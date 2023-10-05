@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Explainable AI for adversarially trained models"
+title: "Explainable AI for Adversarially Trained deep learning models"
 summary: "Designing a visualization system for training models that resist adversarial attacks and remain interpretable"
 authors: []
 tags: 
