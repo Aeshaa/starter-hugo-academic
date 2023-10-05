@@ -6,6 +6,7 @@ summary: "Research on the impact of various Augmented Reality technologies"
 authors: []
 tags: 
   - Augmented Reality
+  - Research
 categories: []
 date: 2022-09-06T04:10:15-07:00
 

@@ -7,6 +7,7 @@ authors: []
 tags: 
   - Machine Learning
   - Image Processing
+  - Projects
 categories: []
 date: 
 

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Projects
+title: Projects & Research
 subtitle: ''
 
 content:
@@ -27,6 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Projects
+      tag: Projects
+    - name: Research
+      tag: Research
     - name: Machine Learning
       tag: Machine Learning
     - name: Augmented Reality

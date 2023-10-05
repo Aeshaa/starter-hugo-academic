@@ -7,6 +7,7 @@ authors: []
 tags: 
   - Mobile App Development
   - Flutter
+  - Projects
 categories: []
 date: 2022-09-06T04:09:50-07:00
 
