@@ -25,7 +25,7 @@ experience:
 
   - title: Data Engineer Intern
     company: Amazon.com, Inc
-    company_url: 'https://scai.engineering.asu.edu/'
+    company_url: 'https://www.amazon.com/'
     company_logo: ''
     location: Bellevue, Washington
     date_start: '2022-05-22'
