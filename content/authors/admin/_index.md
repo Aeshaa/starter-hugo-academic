@@ -65,7 +65,7 @@ highlight_name: true
 
 
 
-I am Aesha Shah, a graduate student pursuing my Master's in Computer Science at Arizona State University (ASU).
+I am Aesha Shah, a graduate student pursuing my Master of Science in Computer Science at Arizona State University (ASU).
 
 Equipped with skills and a fair understanding of Data Science and Machine Learning algorithms, and their applications, I am keenly interested in diving deeper head-on in those fields. I’m creative, analytical and strategic in my ways and thrive on adapting to and succeeding in problem solving and complex, challenging environments. I also take pride in having the ability to look at the big picture while having an eye for attention to detail simultaneously.
 
