@@ -41,4 +41,10 @@ url_video: ""
 slides: ""
 ---
 
-Researched, analyzed and presented the impact of various Augmented Reality technologies and potential challenges in their implementation.
+
+If, like me, you're a fan of Sherlock Holmes, you'll likely find this project as fascinating as I did. And even if you're not a fan, let's admit it – It's difficult not to be impressed by the power of deduction. 
+
+Bear with me, and picture this: a crime scene as a cryptic novel, waiting to be deciphered. Now, add Augmented Reality (AR) to the narrative — a digital detective donning smart lenses, leading us on a virtual exploration, or perhaps crafting a 3D reconstruction of the mystery at hand. This isn't your typical detective story; this is a technological thriller where reality and augmentation tango, promising a new era in forensic investigation.
+
+With the goal of enhancing early investigation methods, this paper examines how Augmented Reality (AR) can be integrated, potentially transforming Crime Scene Investigation (CSI) approaches.
+
