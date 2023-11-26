@@ -29,7 +29,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "static/uploads/AR for CSI.pdf"
 url_slides: ""
 url_video: ""
 
@@ -46,4 +46,4 @@ If, like me, you're a Sherlock Holmes geek, you'll likely find this project as f
 
 With the goal of enhancing early investigation methods, this paper explores the Augmented Reality (AR) technologies that can be integrated, potentially transforming Crime Scene Investigation (CSI) approaches.
 
-- [View PDF]("static/uploads/AR for CSI.pdf")
+<!-- - [View PDF](static/uploads/AR for CSI.pdf) -->
