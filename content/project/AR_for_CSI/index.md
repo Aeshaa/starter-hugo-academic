@@ -52,12 +52,16 @@ With the goal of enhancing early investigation methods, this paper explored the 
 
 ### AR Technologies studied:
 #### 1. HoloLens
+{{< figure src="hololens.avif" >}}
+
 #### 2. Google Glass
 #### 3. Smart Lenses
 
 
 ### Possible Challenges
 
+
+
 {{% callout note %}}
-This research work is from 2018. Although some of them might not have turned out very successful as of now, they were state-of-the-art back then. There has undoubtedly been numerous significant developments and modifications in such technologies and their implementations since. 
+This research is dated 2018, and while some outcomes may not have seen success yet, they were cutting-edge at the time. Since then, there have been numerous noteworthy advancements and alterations in these technologies and how they are applied.
 {{% /callout %}}
