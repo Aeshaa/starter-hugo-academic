@@ -7,7 +7,7 @@ authors: []
 tags: 
   - Research
 categories: []
-date: Feb 2018
+date:
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -46,10 +46,18 @@ If you're a Sherlock Holmes geek like me, you'll likely find this project as fas
 
 Bear with me, and picture this: a crime scene as a cryptic novel, waiting to be deciphered. Now, add Augmented Reality to the narrative — a digital detective donning smart lenses, leading us on a virtual exploration, or perhaps crafting a 3D reconstruction of the mystery at hand. This isn't your typical detective story; this is a technological non-fiction where reality and augmentation tango, promising a new era in forensic investigation.
 
-With the goal of enhancing early investigation methods, this paper explores the Augmented Reality (AR) technologies that can be integrated, potentially transforming Crime Scene Investigation (CSI) approaches.
+### Introduction
+With the goal of enhancing early investigation methods, this paper explored the Augmented Reality (AR) technologies that could be integrated, potentially transforming Crime Scene Investigation (CSI) approaches.
 
-AR Technologies:
 
-1. HoloLens
-2. Google Glass
-3. Smart Lenses
+### AR Technologies studied:
+#### 1. HoloLens
+#### 2. Google Glass
+#### 3. Smart Lenses
+
+
+### Possible Challenges
+
+{{% callout note %}}
+This research work is from 2018. Although some of them might not have turned out very successful as of now, they were state-of-the-art back then. There has undoubtedly been numerous significant developments and modifications in such technologies and their implementations since. 
+{{% /callout %}}
