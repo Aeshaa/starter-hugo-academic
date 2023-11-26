@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Augmented Reality for Crime Scene Investigation"
-summary: "Research on the impact of various Augmented Reality technologies"
+summary: "Researched the potential impact of various Augmented Reality technologies"
 authors: []
 tags: 
   - Research
@@ -29,7 +29,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "content/project/AR_for_CSI/AR for CSI.pdf"
 url_slides: ""
 url_video: ""
 
@@ -44,5 +44,5 @@ slides: ""
 
 If, like me, you're a Sherlock Holmes geek, you'll likely find this project as fascinating as I did. And even if you're not a fan, let's admit it – it's difficult not to be impressed by the power of deduction. Bear with me, and picture this: a crime scene as a cryptic novel, waiting to be deciphered. Now, add Augmented Reality to the narrative — a digital detective donning smart lenses, leading us on a virtual exploration, or perhaps crafting a 3D reconstruction of the mystery at hand. This isn't your typical detective story; this is a technological non-fiction where reality and augmentation tango, promising a new era in forensic investigation.
 
-With the goal of enhancing early investigation methods, this paper examines how Augmented Reality (AR) can be integrated, potentially transforming Crime Scene Investigation (CSI) approaches.
+With the goal of enhancing early investigation methods, this paper explores the Augmented Reality (AR) technologies that can be integrated, potentially transforming Crime Scene Investigation (CSI) approaches.
 
