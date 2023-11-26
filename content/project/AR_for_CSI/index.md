@@ -53,6 +53,7 @@ With the goal of enhancing early investigation methods, this paper explored the 
 ### AR Technologies studied:
 #### 1. HoloLens
 ![screen reader text](hololens.jpeg "Microsoft HoloLens")
+{{< figure src="hololens.jpge" caption="Microsoft HoloLens" >}}
 
 #### 2. Google Glass
 #### 3. Smart Lenses
