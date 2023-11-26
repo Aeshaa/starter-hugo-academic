@@ -46,9 +46,9 @@ If you're a Sherlock Holmes geek like me, you'll likely find this project as fas
 
 Bear with me, and picture this: a crime scene as a cryptic novel, waiting to be deciphered. Now, add Augmented Reality to the narrative — a digital detective donning smart lenses, leading us on a virtual exploration, or perhaps crafting a 3D reconstruction of the mystery at hand. This isn't your typical detective story; this is a technological non-fiction where reality and augmentation intertwine, promising a new era in forensic investigation.
 
-### Introduction
 With the goal of enhancing early investigation methods, this paper explored the Augmented Reality (AR) technologies that could be integrated, potentially transforming Crime Scene Investigation (CSI) approaches.
 
+### Introduction
 In a crime scene, encoded by marks and traces, the scattered state must be meticulously assembled and analyzed to unveil the train of events leading to the crime. Essential pieces of evidence, like DNA-containing hair and nails, blood traces, or gunshot residue, demand careful analysis and interpretation. 
 
 The initial responder, often the first officer on the scene, plays a crucial role as the evidence is uncontaminated at that point. However, due to constraints such as time, cost, and geography, sending the most qualified personnel _(cue Sherlock & Watson)_ may not always be feasible. 
