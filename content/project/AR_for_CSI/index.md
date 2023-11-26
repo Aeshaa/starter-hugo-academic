@@ -51,7 +51,7 @@ With the goal of enhancing early investigation methods, this paper explored the 
 ### Introduction
 In a crime scene, encoded by marks and traces, the scattered state must be meticulously assembled and analyzed to unveil the train of events leading to the crime. Essential pieces of evidence, like DNA-containing hair and nails, blood traces, or gunshot residue, demand careful analysis and interpretation. 
 
-The initial responder, often the first officer on the scene, plays a crucial role as the evidence is uncontaminated at that point. However, due to constraints such as time, cost, and geography, sending the most qualified personnel _(cue Sherlock & Watson)_ may not always be feasible. 
+The initial responder, often the first officer on the scene, plays a crucial role as the evidence is uncontaminated at that point. However, due to constraints such as time, cost, and geography, sending the most qualified personnel _*cue Sherlock & Watson*_ may not always be feasible. 
 
 Augmented Reality (AR) comes into play by providing prototypes to the first officer, allowing them to explore and record the crime scene. This AR version can be transmitted to experts remotely, minimizing contamination risks and facilitating analysis. The recorded data holds potential for courtroom use, and the unrealized power of AR lies in its ability to recreate a crime scene for a jury.
 
