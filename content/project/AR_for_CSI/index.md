@@ -10,7 +10,7 @@ categories: []
 date: 
 
 # Optional external URL for project (replaces project detail page).
-external_link: uploads/AR.pdf
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -46,3 +46,4 @@ If, like me, you're a Sherlock Holmes geek, you'll likely find this project as f
 
 With the goal of enhancing early investigation methods, this paper explores the Augmented Reality (AR) technologies that can be integrated, potentially transforming Crime Scene Investigation (CSI) approaches.
 
+- [PDF Export](static/uploads/AR.pdf)
