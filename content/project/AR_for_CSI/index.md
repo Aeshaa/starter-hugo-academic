@@ -29,7 +29,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "content/project/AR_for_CSI/AR for CSI.pdf"
+url_pdf: "static/uploads/AR for CSI.pdf"
 url_slides: ""
 url_video: ""
 
