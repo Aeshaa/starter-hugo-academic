@@ -55,7 +55,7 @@ With the goal of enhancing early investigation methods, this paper explored the 
 ![screen reader text](hololens2.jpeg "Microsoft HoloLens")
 
 #### 2. Google Glass
-![screen reader text](googleglass2.jpeg "Google Glass")
+![screen reader text](googleglass3.jpeg "Google Glass")
 
 #### 3. Smart Lenses
 ![screen reader text](smartlens.png "Smart Lens")
@@ -66,5 +66,5 @@ With the goal of enhancing early investigation methods, this paper explored the 
 
 
 {{% callout note %}}
-This research is dated 2018, and while some outcomes may not have seen success yet, they were cutting-edge at the time. Since then, there have been numerous noteworthy advancements and alterations in these technologies and how they are applied.
+This research is dated 2018, and while some products may have been discontinued, they were cutting-edge at the time. Since then, there have been numerous noteworthy advancements and alterations in these technologies and how they are applied.
 {{% /callout %}}
