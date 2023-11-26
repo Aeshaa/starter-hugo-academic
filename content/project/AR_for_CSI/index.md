@@ -46,4 +46,4 @@ If, like me, you're a Sherlock Holmes geek, you'll likely find this project as f
 
 With the goal of enhancing early investigation methods, this paper explores the Augmented Reality (AR) technologies that can be integrated, potentially transforming Crime Scene Investigation (CSI) approaches.
 
-- [PDF Export](static/uploads/AR.pdf)
+- [View PDF]("static/uploads/AR for CSI.pdf")
