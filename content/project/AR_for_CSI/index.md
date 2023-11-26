@@ -44,7 +44,7 @@ slides: ""
 
 If you're a Sherlock Holmes geek like me, you'll likely find this project as fascinating as I did. And even if you're not a fan, let's admit it – it's difficult not to be impressed by the power of deduction. 
 
-Bear with me, and picture this: a crime scene as a cryptic novel, waiting to be deciphered. Now, add Augmented Reality to the narrative — a digital detective donning smart lenses, leading us on a virtual exploration, or perhaps crafting a 3D reconstruction of the mystery at hand. This isn't your typical detective story; this is a technological non-fiction where reality and augmentation tango, promising a new era in forensic investigation.
+Bear with me, and picture this: a crime scene as a cryptic novel, waiting to be deciphered. Now, add Augmented Reality to the narrative — a digital detective donning smart lenses, leading us on a virtual exploration, or perhaps crafting a 3D reconstruction of the mystery at hand. This isn't your typical detective story; this is a technological non-fiction where reality and augmentation intertwine, promising a new era in forensic investigation.
 
 ### Introduction
 With the goal of enhancing early investigation methods, this paper explored the Augmented Reality (AR) technologies that could be integrated, potentially transforming Crime Scene Investigation (CSI) approaches.
@@ -62,7 +62,7 @@ With the goal of enhancing early investigation methods, this paper explored the 
 
 
 ### Possible Challenges
-
+Throughout my research, it was clear that the AR technology had progressed significantly but still faces challenges in online annotations, including perceptual and positioning issues. The choice between hand-held and head-mounted devices influences user experience, and challenges exist with GPS-based location information indoors. Proposed solutions involve a vision-based positioning system and potential improvements in user interaction through free-hand gestures using depth-sensing cameras.
 
 
 {{% callout note %}}
