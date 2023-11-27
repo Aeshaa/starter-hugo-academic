@@ -28,8 +28,8 @@ experience:
     company_url: 'https://www.amazon.com/'
     company_logo: ''
     location: Bellevue, Washington
-    date_start: '2022-05-22'
-    date_end: '2022-08-11'
+    date_start: '2023-05-22'
+    date_end: '2023-08-11'
     description: |2-
 
         - Reduced costs by 40% and improved performance by 80% for ETL pipelines and Redshift Clusters, increasing the efficiency of benchmark setting for Amazon Fulfillment Centers through an elaborate dashboard.
@@ -42,7 +42,7 @@ experience:
     company_url: 'https://theluminositylab.com/'
     company_logo: ''
     location: Tempe, Arizona
-    date_start: '2022-01-08'
+    date_start: '2023-01-08'
     date_end: ''
     description: |2-
       [Rodel Project](http://rodel.theluminositylab.com/) -
