@@ -67,7 +67,7 @@ Here is a flowchart illustrating the standard sequence of events that unfolds on
 
 ### AR Technologies studied:
 #### 1. Microsoft HoloLens
-![alt text](hololens.jpeg)
+![alt text](hololens.jpeg "Microsoft HoloLens")
 
 #### 2. Google Glass
 ![alt text](googleglass.jpeg)
