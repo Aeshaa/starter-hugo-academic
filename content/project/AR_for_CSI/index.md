@@ -57,7 +57,7 @@ Augmented Reality (AR) comes into play by providing prototypes to the first offi
 
 ### Flowchart 
 
-![screen reader text]("AR.drawio.png" "Flow of events during a Crime Scene Investigation (Black - Conventional Methods, Green - Potential Enhancements post AR integration)")
+![screen reader text](AR.drawio.png "Flow of events during a Crime Scene Investigation (Black - Conventional Methods, Green - Potential Enhancements post AR integration)")
 
 ### AR Technologies studied:
 #### 1. HoloLens
