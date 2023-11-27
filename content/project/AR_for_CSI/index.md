@@ -55,7 +55,7 @@ The initial responder, often the first officer on the scene, plays a crucial rol
 
 Augmented Reality (AR) comes into play by providing prototypes to the first officer, allowing them to explore and record the crime scene. This AR version can be transmitted to experts remotely, minimizing contamination risks and facilitating analysis. The recorded data holds potential for courtroom use, and the unrealized power of AR lies in its ability to recreate a crime scene for a jury.
 
-![screen reader text](AR.drawio.png)
+![screen reader text](AR.drawio.png" "Flow of events during a Crime Scene Investigation (Black - Conventional Methods, Green - Potential Enhancements post AR integration)")
 
 ### AR Technologies studied:
 #### 1. HoloLens
