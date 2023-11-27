@@ -71,7 +71,7 @@ Equipped with skills and a fair understanding of Data Science and Machine Learni
 
 While not working or studying, you will probably find me strumming my guitar and reading.
 
-Words I live by: Keep Learning. Be Kind and Helpful. Always Create Value.
+Words I live by: **Keep Learning. Be Kind and Helpful. Always Create Value.**
 
 Currently, I am open to exciting full-time roles in Data Science/Machine Learning. I’m also always up for interesting conversations and any stories/experiences you might have to share. Please feel free to reach out and I’d be happy to chat about either!
 
