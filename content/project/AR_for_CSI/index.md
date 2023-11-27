@@ -63,17 +63,17 @@ Here is a flowchart illustrating the standard sequence of events that unfolds on
 - _Black: Conventional Methods_ 
 - _Green: post-AR Integration_
 
-![title](AR.drawio.png "Flow of events during a Crime Scene Investigation")
+![alt text](AR.drawio.png "Flow of events during a Crime Scene Investigation")
 
 ### AR Technologies studied:
 #### 1. Microsoft HoloLens
-![figure](hololens.jpeg)
+![alt text](hololens.jpeg)
 
 #### 2. Google Glass
-![figure](googleglass.jpeg)
+![alt text](googleglass.jpeg)
 
 #### 3. Smart Lenses
-![figure](smartlens.png)
+![alt text](smartlens.png)
 
 
 ### Possible Challenges
