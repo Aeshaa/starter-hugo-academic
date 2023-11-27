@@ -60,8 +60,9 @@ Augmented Reality (AR) comes into play by providing prototypes to the first offi
 Below is a flowchart indicating the typical timeline of events that occur once a scene is identified as a scene of crime, augmented with the potential enhancements by integrating AR.
 
 _Black - Conventional Methods,_ 
-_Green - post AR Integration_
-{style="color: green"}
+
+_Green {style="color: green"}- post AR Integration_
+
 
 ![screen reader text](AR.drawio.png "Flow of events during a Crime Scene Investigation")
 
@@ -79,8 +80,6 @@ _Green - post AR Integration_
 ### Possible Challenges
 Throughout my research, it was clear that the AR technology had progressed significantly but still faces challenges in online annotations, including perceptual and positioning issues. The choice between hand-held and head-mounted devices influences user experience, and challenges exist with GPS-based location information indoors. Proposed solutions involve a vision-based positioning system and potential improvements in user interaction through free-hand gestures using depth-sensing cameras.
 
-
-> This research is dated 2018, and while some products may have been discontinued, they were cutting-edge at the time. Since then, there have been numerous noteworthy advancements and alterations in these technologies and how they are applied.
 
 {{% callout note %}}
 This research is dated 2018, and while some products may have been discontinued, they were cutting-edge at the time. Since then, there have been numerous noteworthy advancements and alterations in these technologies and how they are applied.
