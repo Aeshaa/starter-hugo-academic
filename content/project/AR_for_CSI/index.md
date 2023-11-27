@@ -61,8 +61,8 @@ Below is a flowchart indicating the typical timeline of events that occur once a
 
 _Black - Conventional Methods,_ 
 
-_Green {style="color: green"}- post AR Integration_
-
+_Green - post AR Integration_
+{style="color: green"}
 
 ![screen reader text](AR.drawio.png "Flow of events during a Crime Scene Investigation")
 
