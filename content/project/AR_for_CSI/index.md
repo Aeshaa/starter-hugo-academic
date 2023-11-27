@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Augmented Reality for Crime Scene Investigation"
-summary: "Researched the potential influence of different Augmented Reality Technologies on the methods employed in Crime Scene Investigation."
+summary: "Researched the potential influence of Augmented Reality Technologies on the methods employed in Crime Scene Investigation."
 authors: []
 tags: 
   - Research
