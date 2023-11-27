@@ -31,8 +31,9 @@ experience:
     date_start: '2022-05-22'
     date_end: '2022-08-11'
     description: |2-
-        - Enabled cost saving on the ETL pipelines and Redshift Cluster usage by optimizing identification and enabling rectification of performance detrimental gaps and incorrect keys in sub-par jobs and queries.
-        - Leveraging insights from my dashboard will cut costs by at least 40% and boost team efficiency by over 80%.
+
+        - Reduced costs by 40% and improved performance by 80% for ETL pipelines and Redshift Clusters, increasing the efficiency of benchmark setting for Amazon Fulfillment Centers through an elaborate dashboard.
+        - Optimized identification and rectification of performance detrimental gaps and incorrect keys in sub-par jobs and queries.
         - Proposed innovative AI integration strategies to stimulate growth and promote innovation within existing organizational projects.
 
 
@@ -46,7 +47,7 @@ experience:
     description: |2-
       [Rodel Project](http://rodel.theluminositylab.com/) -
 
-       - Contributing towards creating an innovative and interactive simulator of Arizona that enables leaders and citizens to explore the implications of proposed policies ranging from education to infrastructure hence aiding in informed decision-making.
+       - Researched and analyzed predictive tax models to integrate into an innovative and interactive simulator of Arizona to enable leaders and citizens to explore the implications of proposed policies ranging from education to infrastructure hence aiding in informed decision-making.
        - Developed and optimized the user interface using ReactJS and Three.js to improve user experience and responsiveness by 28%.
        - Implemented a KD-Tree Nearest Neighbor model to accurately assign students to schools by considering factors like proximity and school capacity.
       
@@ -59,11 +60,12 @@ experience:
     date_start: '2022-08-08'
     date_end: '2022-12-24'
     description: |2-
-         Responsibilites include:  
-        
-        - Analyzing Arizona’s Medicaid data to enable data-driven informed decisions.  
-        - Providing project management support and assistance to ensure project progress and effective communication with key stakeholders for the State Opioid Response (SOR) project.  
-        - Researching and curating a timeline that reflects changes made during the past 5 years and the impact of COVID-19 on Opioid Use Disorder policies.  
+
+        - Analyzed Arizona’s Medicaid data, policy changes over the past 5 years, and impact of COVID-19 on Opioid Use Disorder.
+        - Identified patterns in treatment gaps to evaluate program effectiveness and remission rates of currently enrolled patients.
+        - Managed project progress and stakeholder communication for the State Opioid Response (SOR) initiative.
+        - Provided project management support and assistance to ensure project progress and effective communication with key stakeholders for the State Opioid Response (SOR) project.  
+       
       
 
   - title: Machine Learning and Artificial Intelligence Specialist 
@@ -74,7 +76,7 @@ experience:
     date_start: '2022-03-01'
     date_end: '2022-08-12'
     description: |2-
-        - Developed Machine Learning predictive models to track and predict students’ performances over the semester for various courses.
+        - Developed classification models (CatBoost) to forecast and identify at-risk students leading to 12% increase in success rates over a semester.
         - Aggregated student data to perform quantitative analysis from various data sources and transformed them into actionable insights.
         - Produced data to promote student success by providing target audience lists of students to receive interventions based on the predictions.
         - Reduced fetch and load time by 65% by successfully reproducing SQL queries for Google Data Studio dashboards in BigQuery.
