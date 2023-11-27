@@ -59,12 +59,9 @@ Augmented Reality (AR) comes into play by providing prototypes to the first offi
 
 Here is a flowchart illustrating the standard sequence of events that unfolds once a location is identified as a crime scene, augmented (_see what I did there? xP_) with possible improvements through the integration of augmented reality (AR).
 
-Colors in the chart:
-
-_Black - Conventional Methods,_ 
-
-_Green - post-AR Integration_
-{style="color: green"}
+**Colors in the chart:**
+- _Black: Conventional Methods,_ 
+- _Green: post-AR Integration_
 
 ![screen reader text](AR.drawio.png "Flow of events during a Crime Scene Investigation")
 
