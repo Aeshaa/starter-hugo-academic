@@ -18,7 +18,7 @@ external_link: ""
 image:
   caption: ""
 #   placement: 3
-  focal_point: "Center"
+  focal_point: "Bottom"
   preview_only: false
 
 # Custom links (optional).
