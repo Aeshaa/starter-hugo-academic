@@ -17,6 +17,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
+  placement: 1
   focal_point: "Right"
   preview_only: false
 
