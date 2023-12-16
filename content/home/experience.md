@@ -43,7 +43,7 @@ experience:
     company_logo: ''
     location: Tempe, Arizona
     date_start: '2023-01-08'
-    date_end: ''
+    date_end: '2023-12-11'
     description: |2-
       [Rodel Project](http://rodel.theluminositylab.com/) -
 
