@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Heat Debate: Are humans responsible for Global Warming?"
+title: "Same Data, Conflicting Insights?"
 summary: " Visualizations "
 authors: []
 tags: 
