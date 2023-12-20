@@ -41,3 +41,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+![screen reader text](trends.png "")
