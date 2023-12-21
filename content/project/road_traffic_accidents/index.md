@@ -1,6 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+draft: true
 title: "Analysis of Machine Learning Models for Road Traffic Accidents"
 summary: "An end-to-end Machine Learning project pipeline to classify Accident Severity"
 authors: []

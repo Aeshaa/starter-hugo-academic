@@ -1,6 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+draft: true
 title: "Plant Leaf Disease Detection and Identification"
 summary: "An end-to-end Machine Learning project to classify Healthy and Diseased Plant Leaves"
 authors: []
