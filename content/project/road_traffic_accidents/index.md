@@ -6,8 +6,8 @@ title: "Analysis of Machine Learning Models for Road Traffic Accidents"
 summary: "An end-to-end Machine Learning project pipeline to classify Accident Severity"
 authors: []
 tags: 
-  - Machine Learning
-  - Image Processing
+  # - Machine Learning
+  # - Image Processing
   - Projects
 categories: []
 date: 2022-09-06T03:56:13-07:00

@@ -31,12 +31,12 @@ content:
       tag: Projects
     - name: Research
       tag: Research
-    - name: Machine Learning
-      tag: Machine Learning
-    - name: Mobile App Development
-      tag: Mobile App Development
-    - name: Image Processing
-      tag: Image Processing
+    # - name: Machine Learning
+    #   tag: Machine Learning
+    # - name: Mobile App Development
+    #   tag: Mobile App Development
+    # - name: Image Processing
+    #   tag: Image Processing
     # - name: Other
     #   tag: Demo
 

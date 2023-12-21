@@ -6,8 +6,8 @@ title: "Plant Leaf Disease Detection and Identification"
 summary: "An end-to-end Machine Learning project to classify Healthy and Diseased Plant Leaves"
 authors: []
 tags: 
-  - Machine Learning
-  - Image Processing
+  # - Machine Learning
+  # - Image Processing
   - Projects
 categories: []
 date: 
