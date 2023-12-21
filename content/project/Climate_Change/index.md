@@ -44,7 +44,7 @@ slides: ""
 ### Introduction 
 Climate change and global warming are controversial topics, with debates centering around the extent of human influence, the urgency of action, and the potential consequences. Proponents of immediate action argue that human activities are driving climate change with severe consequences, while skeptics may question the extent of human impact or the reliability of climate models.
 
-![screen reader text](trends.png "")
+![screen reader text](trends1.png "")
 
 ### Left Chart
 It visualizes rising global temperatures over time, emphasizing the correlation with human activities. It argues that humans have made significant damaging contributions to climate change and temperatures are in fact rising sharply, implying the urgency of the matter and immediate call-to-action.
