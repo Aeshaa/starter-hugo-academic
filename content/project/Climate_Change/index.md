@@ -50,14 +50,14 @@ Climate change and global warming are controversial topics, with debates centeri
 It visualizes rising global temperatures over time, emphasizing the correlation with human activities. It argues that humans have made significant damaging contributions to climate change and temperatures are in fact rising sharply, implying the urgency of the matter and immediate call-to-action.
 
 Some notable events that indicate strong human contribution are:
-1. The non-decreasing graph post World War II in 1939-1945, likely due to substantial increase in urbanization, modernization and industrialization.
-2. We also see a high spike in the temperatures in 2011, that is when the Fukushima disaster occurred - yet another human-induced tragedy.
+-  The non-decreasing graph post World War II in 1939-1945, likely due to substantial increase in urbanization, modernization and industrialization.
+- We also see a high spike in the temperatures in 2011, that is when the Fukushima disaster occurred - yet another human-induced tragedy.
 
 ### Right Chart
 Contrastingly, the right chart takes a broader perspective and showcases a relatively stable graph, indicating that it's not a real threat. It tends to speak for the natural ebb and flow of climate conditions, suggesting that current warming trends may be part of a larger natural cycle rather than solely due to human influence.
 
 ### Dataset Source 
-[NASA's Climate Change Data] (https://data.giss.nasa.gov/gistemp/)
+[NASA's Climate Change Data](https://data.giss.nasa.gov/gistemp/)
 
 CSV file Under the "Tables of Global and Hemispheric Monthly Means and Zonal Annual Means" section titled **"Global-mean monthly, seasonal, and annual means, 1880-present, updated through most recent month"**.
 
@@ -67,5 +67,7 @@ Both the charts use the same data. However, I have made a few simple modificatio
 2. Aggregated the values of the 12 months of the year (Jan-Dec) each given in the dataset to get a "mean" for each year. This "mean" of each year is represented in the line charts.
 
 ### Rhetoric/Framing Techniques used:
-1. Y-Axis Scale Range: The scale for the y-axis for both the charts is different. The scale for the chart on the left is fitted precisely to the minimum and maximum values in the dataset thus offering a detailed, microscopic view of the plot. On the contrary, the scale for the right chart extends far beyond the dataset's extreme values. This creates the illusion of minimal variation in the graph, suggesting a relatively stable trend.
-2. Color Scheme: The color palette for both charts is thoughtfully selected, intentionally creating a subconscious mental bias. The left chart is drawn with a vibrant, warm red color, instilling a sense of urgency and suggesting potential negative impacts. Conversely, the right chart is presented in a natural, earthy, and tranquil blue tone, encouraging a more relaxed interpretation.
+#### Y-Axis Scale Range: 
+The scale for the y-axis for both the charts is different. The scale for the chart on the left is fitted precisely to the minimum and maximum values in the dataset thus offering a detailed, microscopic view of the plot. On the contrary, the scale for the right chart extends far beyond the dataset's extreme values. This creates the illusion of minimal variation in the graph, suggesting a relatively stable trend.
+#### Color Scheme: 
+The color palette for both charts is thoughtfully selected, intentionally creating a subconscious mental bias. The left chart is drawn with a vibrant, warm red color, instilling a sense of urgency and suggesting potential negative impacts. Conversely, the right chart is presented in a natural, earthy, and tranquil blue tone, encouraging a more relaxed interpretation.
