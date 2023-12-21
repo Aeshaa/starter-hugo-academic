@@ -46,13 +46,23 @@ Climate change and global warming are controversial topics, with debates centeri
 
 ![screen reader text](trends.png "")
 
-Dataset Source: NASA's Climate Change Data.
+### Left Chart
+It visualizes rising global temperatures over time, emphasizing the correlation with human activities. It argues that humans have made significant damaging contributions to climate change and temperatures are in fact rising sharply, implying the urgency of the matter and immediate call-to-action.
 
-### Navigating to the Dataset:
-- On the home page of the link above: Earth Observations -> Temperature -> GISS Surface Temperature Analysis (GISTEMP).
-- Once on the GISS Surface Temperature Analysis (GISTEMP v4) page, scroll down to "Tables of Global and Hemispheric Monthly Means and Zonal Annual Means".
-- The dataset used is the CSV file for "Global-mean monthly, seasonal, and annual means, 1880-present, updated through most recent month".
-Data pre-processing: Both the charts use the same data. However, I have made a few simple modifications to the dataset -
+Some notable events that indicate strong human contribution are:
+1. The non-decreasing graph post World War II in 1939-1945, likely due to substantial increase in urbanization, modernization and industrialization.
+2. We also see a high spike in the temperatures in 2011, that is when the Fukushima disaster occurred - yet another human-induced tragedy.
+
+### Right Chart
+Contrastingly, the right chart takes a broader perspective and showcases a relatively stable graph, indicating that it's not a real threat. It tends to speak for the natural ebb and flow of climate conditions, suggesting that current warming trends may be part of a larger natural cycle rather than solely due to human influence.
+
+### Dataset Source 
+[NASA's Climate Change Data] (https://data.giss.nasa.gov/gistemp/)
+
+CSV file Under the "Tables of Global and Hemispheric Monthly Means and Zonal Annual Means" section titled **"Global-mean monthly, seasonal, and annual means, 1880-present, updated through most recent month"**.
+
+### Data pre-processing 
+Both the charts use the same data. However, I have made a few simple modifications to the dataset -
 1. Filtered the data to only contain the values starting from the Year 1980.
 2. Aggregated the values of the 12 months of the year (Jan-Dec) each given in the dataset to get a "mean" for each year. This "mean" of each year is represented in the line charts.
 
