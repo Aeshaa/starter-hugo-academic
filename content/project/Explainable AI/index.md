@@ -6,7 +6,7 @@ summary: "Designing a visualization system for training models that resist adver
 authors: []
 tags: 
   - Research
-  - Machine Learning
+  # - Machine Learning
 
 categories: []
 date:
@@ -43,4 +43,4 @@ url_video: ""
 slides: ""
 ---
 
-Researched on concept-based methods in Explainable AI, to maintain the interpretibility of adverserially trained deep learning models.
+Researching on concept-based methods in Explainable AI, to maintain the interpretibility of adverserially trained deep learning models.
