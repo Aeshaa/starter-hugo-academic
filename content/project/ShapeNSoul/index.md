@@ -1,6 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+draft: true
 title: "ShapeNSoul"
 summary: "Mobile Application using Flutter and Firestore for a Naturopathy Clinic"
 authors: []
