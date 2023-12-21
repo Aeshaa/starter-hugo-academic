@@ -65,7 +65,9 @@ The color palette for both charts is thoughtfully selected, intentionally creati
 
 ### Dataset Source 
 [NASA's Climate Change Data](https://data.giss.nasa.gov/gistemp/)
-CSV file Under the "Tables of Global and Hemispheric Monthly Means and Zonal Annual Means" section titled **"Global-mean monthly, seasonal, and annual means, 1880-present, updated through most recent month"**.
+- "Tables of Global and Hemispheric Monthly Means and Zonal Annual Means" 
+  - Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies (Land-Ocean Temperature Index, L-OTI)
+    - **"Global-mean monthly, seasonal, and annual means, 1880-present, updated through most recent month"** _CSV_.
 
 ### Data pre-processing 
 Both the charts use the same data. However, I have made a few simple modifications to the dataset -
