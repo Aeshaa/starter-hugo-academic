@@ -41,6 +41,19 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Take a quick look at the two graphs below.
+
+What do you see? What is the first thing that you notice?
+
+Easy - The graph on the left is steeply rising. The graph on the right is relatively constant.
+
+What if I told you these are both created from the exact same data?
+
+Surprising, right? 
+
+Can you guess how is that possible? Take a minute and think about it.
+
 ### Introduction 
 Climate change and global warming are controversial topics, with debates centering around the extent of human influence, the urgency of action, and the potential consequences. Proponents of immediate action argue that human activities are driving climate change with severe consequences, while skeptics may question the extent of human impact or the reliability of climate models.
 
