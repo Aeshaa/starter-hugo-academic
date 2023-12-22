@@ -68,7 +68,6 @@ Climate change and global warming are controversial topics, with debates centeri
 Let's go back to the charts and look at each of them closely now, shall we?
 
 **Left Chart**
-
 ![screen reader text](left.png "")
 
 This chart visualizes rising global temperatures over time, emphasizing the correlation with human activities. 
@@ -80,7 +79,6 @@ Some notable events that indicate strong human contribution are:
 2. We also see a high spike in the temperatures in 2011, that is when the Fukushima disaster occurred - yet another human-induced tragedy.
 
 **Right Chart**
-
 ![screen reader text](right.png "")
 
 Contrastingly, the right chart takes a broader perspective and showcases a relatively stable graph, indicating that it's not a real threat. 
@@ -94,13 +92,13 @@ The scale for the y-axis for both the charts is different.
 The scale for the chart on the left is fitted precisely to the minimum and maximum values in the dataset thus offering a detailed, microscopic view of the plot. 
 
 On the contrary, the scale for the right chart extends far beyond the dataset's extreme values. This creates the illusion of minimal variation in the graph, suggesting a relatively stable trend.
+
 #### 2. Color Scheme: 
 The color palette for both charts is thoughtfully selected, intentionally creating a subconscious mental bias. 
 
 The left chart is drawn with a vibrant, warm red color, instilling a sense of urgency and suggesting potential negative impacts. 
 
 Conversely, the right chart is presented in a natural, earthy, and tranquil blue tone, encouraging a more relaxed interpretation.
-
 
 ### Data
 
