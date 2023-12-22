@@ -41,20 +41,26 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+### Introduction
 
 Take a quick look at the two graphs below. What do you see? What is the first thing that you notice?
 
 ![screen reader text](trends1.png "")
 
-Easy - The graph on the left is steeply rising and the graph on the right is relatively constant.
+You probably thought - the graph on the left is steeply rising and the graph on the right is relatively constant.
 
 What if I told you that both of these graphs are created using the exact same data?
 
 Surprising, right? Take a minute and think about how is this possible.
 
+This is a project I did as a part of an assignment for the course CSE 578 - Data Visualization. The main aim of the assignment was to create two charts demonstrating contrasting views but the challenge was to do so using the same dataset.
 
+I decided to show opposing views on Global Warming that could help derive certain insights on if human involvement is a cause or is it just simple natural climate fluctuations and also the rate of climate change occurring over the past 100 years or so. 
 
-### Introduction 
+I use a couple of Rhetoric/Framing techniques to make the visualization appealing and make my point that I will explain in a minute further ahead.
+
+**Why Global Warming?**
+
 Climate change and global warming are controversial topics, with debates centering around the extent of human influence, the urgency of action, and the potential consequences. Proponents of immediate action argue that human activities are driving climate change with severe consequences, while skeptics may question the extent of human impact or the reliability of climate models.
 
 
