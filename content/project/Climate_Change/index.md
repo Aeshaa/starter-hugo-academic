@@ -89,14 +89,16 @@ Contrastingly, this chart takes a broader perspective and showcases a relatively
 It tends to speak for the natural ebb and flow of climate conditions, suggesting that current warming trends may be part of a larger natural cycle rather than solely due to human influence.
 
 ### Rhetoric/Framing Techniques
-#### 1. Y-Axis Scale Range: 
+**1. Y-Axis Scale Range:**
+
 The scale for the y-axis for both the charts is different. 
 
 The scale for the chart on the left is fitted precisely to the minimum and maximum values in the dataset thus offering a detailed, microscopic view of the plot. 
 
 On the contrary, the scale for the right chart extends far beyond the dataset's extreme values. This creates the illusion of minimal variation in the graph, suggesting a relatively stable trend.
 
-#### 2. Color Scheme: 
+**2. Color Scheme:**
+
 The color palette for both charts is thoughtfully selected, intentionally creating a subconscious mental bias. 
 
 The left chart is drawn with a vibrant, warm red color, instilling a sense of urgency and suggesting potential negative impacts. 
@@ -131,4 +133,4 @@ The left chart, with its steep climb, suggests urgent human impact, while the ri
 
 This project emphasizes the need for responsible data representation to avoid misinformation.
 
-In an era where data plays a pivotal role in shaping public opinion and decisions, maintaining transparency and accuracy in data visualization is crucial. The intentional framing of data should not compromise the truth but rather empower individuals to make informed judgments about complex issues like climate change. As creators and consumers of visualizations, let us embrace a commitment to accuracy, ethical representation, and a nuanced understanding of the narratives woven through data.
+In an era where data plays a pivotal role in shaping public opinion and decisions, maintaining transparency and accuracy in data visualization is crucial. The intentional framing of data should not compromise the truth but rather empower individuals to make informed judgments about complex issues like climate change. As creators and consumers of visualizations, we must commit to accuracy, ethical representation, and a nuanced understanding of the narratives woven through data.
