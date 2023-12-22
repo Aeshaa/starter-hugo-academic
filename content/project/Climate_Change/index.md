@@ -42,22 +42,21 @@ url_video: ""
 slides: ""
 ---
 
-Take a quick look at the two graphs below.
+Take a quick look at the two graphs below. What do you see? What is the first thing that you notice?
 
-What do you see? What is the first thing that you notice?
+![screen reader text](trends1.png "")
 
-Easy - The graph on the left is steeply rising. The graph on the right is relatively constant.
+Easy - The graph on the left is steeply rising and the graph on the right is relatively constant.
 
-What if I told you these are both created from the exact same data?
+What if I told you that both of these graphs are created using the exact same data?
 
-Surprising, right? 
+Surprising, right? Take a minute and think about how is this possible.
 
-Can you guess how is that possible? Take a minute and think about it.
+
 
 ### Introduction 
 Climate change and global warming are controversial topics, with debates centering around the extent of human influence, the urgency of action, and the potential consequences. Proponents of immediate action argue that human activities are driving climate change with severe consequences, while skeptics may question the extent of human impact or the reliability of climate models.
 
-![screen reader text](trends1.png "")
 
 ### Left Chart
 It visualizes rising global temperatures over time, emphasizing the correlation with human activities. It argues that humans have made significant damaging contributions to climate change and temperatures are in fact rising sharply, implying the urgency of the matter and immediate call-to-action.
