@@ -65,6 +65,9 @@ I use a couple of Rhetoric/Framing techniques to make the visualization appealin
 
 Climate change and global warming are controversial topics, with debates centering around the extent of human influence, the urgency of action, and the potential consequences. Proponents of immediate action argue that human activities are driving climate change with severe consequences, while skeptics may question the extent of human impact or the reliability of climate models.
 
+![screen reader text](featured1.jpeg "")
+
+
 Let's go back to the charts and look at each of them closely now, shall we?
 
 **Left Chart**
@@ -81,7 +84,7 @@ Some notable events that indicate strong human contribution are:
 **Right Chart**
 ![screen reader text](right.png "")
 
-Contrastingly, the right chart takes a broader perspective and showcases a relatively stable graph, indicating that it's not a real threat. 
+Contrastingly, this chart takes a broader perspective and showcases a relatively stable graph, indicating that it's not a real threat. 
 
 It tends to speak for the natural ebb and flow of climate conditions, suggesting that current warming trends may be part of a larger natural cycle rather than solely due to human influence.
 
