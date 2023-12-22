@@ -70,16 +70,20 @@ Let's go back to the charts and look at each of them closely now, shall we?
 ### Left Chart
 ![screen reader text](left.png "")
 
-It visualizes rising global temperatures over time, emphasizing the correlation with human activities. It argues that humans have made significant damaging contributions to climate change and temperatures are in fact rising sharply, implying the urgency of the matter and immediate call-to-action.
+This chart visualizes rising global temperatures over time, emphasizing the correlation with human activities. 
+
+It argues that humans have made significant damaging contributions to climate change and temperatures are in fact rising sharply, implying the urgency of the matter and immediate call-to-action.
 
 Some notable events that indicate strong human contribution are:
-1.  The non-decreasing graph post World War II in 1939-1945, likely due to substantial increase in urbanization, modernization and industrialization.
+1.  The sharp rise in graph post World War II in 1939-1945, likely due to substantial increase in urbanization, modernization and industrialization.
 2. We also see a high spike in the temperatures in 2011, that is when the Fukushima disaster occurred - yet another human-induced tragedy.
 
 ### Right Chart
 ![screen reader text](right.png "")
 
-Contrastingly, the right chart takes a broader perspective and showcases a relatively stable graph, indicating that it's not a real threat. It tends to speak for the natural ebb and flow of climate conditions, suggesting that current warming trends may be part of a larger natural cycle rather than solely due to human influence.
+Contrastingly, the right chart takes a broader perspective and showcases a relatively stable graph, indicating that it's not a real threat. 
+
+It tends to speak for the natural ebb and flow of climate conditions, suggesting that current warming trends may be part of a larger natural cycle rather than solely due to human influence.
 
 ### Rhetoric/Framing Techniques
 #### 1. Y-Axis Scale Range: 
