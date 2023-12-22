@@ -83,9 +83,19 @@ Contrastingly, the right chart takes a broader perspective and showcases a relat
 
 ### Rhetoric/Framing Techniques used:
 #### Y-Axis Scale Range: 
-The scale for the y-axis for both the charts is different. The scale for the chart on the left is fitted precisely to the minimum and maximum values in the dataset thus offering a detailed, microscopic view of the plot. On the contrary, the scale for the right chart extends far beyond the dataset's extreme values. This creates the illusion of minimal variation in the graph, suggesting a relatively stable trend.
+The scale for the y-axis for both the charts is different. 
+
+The scale for the chart on the left is fitted precisely to the minimum and maximum values in the dataset thus offering a detailed, microscopic view of the plot. 
+
+On the contrary, the scale for the right chart extends far beyond the dataset's extreme values. 
+
+This creates the illusion of minimal variation in the graph, suggesting a relatively stable trend.
 #### Color Scheme: 
-The color palette for both charts is thoughtfully selected, intentionally creating a subconscious mental bias. The left chart is drawn with a vibrant, warm red color, instilling a sense of urgency and suggesting potential negative impacts. Conversely, the right chart is presented in a natural, earthy, and tranquil blue tone, encouraging a more relaxed interpretation.
+The color palette for both charts is thoughtfully selected, intentionally creating a subconscious mental bias. 
+
+The left chart is drawn with a vibrant, warm red color, instilling a sense of urgency and suggesting potential negative impacts. 
+
+Conversely, the right chart is presented in a natural, earthy, and tranquil blue tone, encouraging a more relaxed interpretation.
 
 
 ### Dataset Source 
