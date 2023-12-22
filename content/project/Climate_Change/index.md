@@ -47,7 +47,7 @@ Take a quick look at the two graphs below.
 
 What do you see? What is the first thing that you notice?
 
-![screen reader text](trends1.png "")
+![screen reader text](trends.png "")
 
 You probably thought that the graph on the left is steeply rising and the graph on the right is relatively constant.
 
@@ -55,7 +55,7 @@ What if I told you that both of these graphs are created using the exact same da
 
 Surprising, right? Take a minute and think about how is this possible.
 
-I did this project as a part of an assignment for the course CSE 578 - Data Visualization I took during my Master's degree. The main aim of the assignment was to create two charts demonstrating contrasting views with the challenge of using the same dataset for both.
+I did this project as a part of an assignment for the course CSE 578 - Data Visualization I took during my Master's degree. The main aim of the assignment was to think outside the box and create two charts to demonstrate contrasting views. The challenge here was to use the same dataset for both.
 
 I chose to present contrasting perspectives on Global Warming to examine the rate at which climate change has unfolded over the last century and derive insights into whether it is caused by human activities or simply natural climate fluctuations. 
 
@@ -87,9 +87,7 @@ The scale for the y-axis for both the charts is different.
 
 The scale for the chart on the left is fitted precisely to the minimum and maximum values in the dataset thus offering a detailed, microscopic view of the plot. 
 
-On the contrary, the scale for the right chart extends far beyond the dataset's extreme values. 
-
-This creates the illusion of minimal variation in the graph, suggesting a relatively stable trend.
+On the contrary, the scale for the right chart extends far beyond the dataset's extreme values. This creates the illusion of minimal variation in the graph, suggesting a relatively stable trend.
 #### Color Scheme: 
 The color palette for both charts is thoughtfully selected, intentionally creating a subconscious mental bias. 
 
