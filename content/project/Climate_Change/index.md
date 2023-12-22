@@ -51,11 +51,11 @@ What do you see? What is the first thing that you notice?
 
 You probably thought that the graph on the left is steeply rising and the graph on the right is relatively constant.
 
-What if I told you that both of these graphs are created using the exact same data?
+What if I told you that both of these graphs are created using the same data?
 
 Surprising, right? Take a minute and think about how is this possible.
 
-I did this project as a part of an assignment for the course CSE 578 - Data Visualization I took during my Master's degree. The main aim of the assignment was to think outside the box and create two charts to demonstrate contrasting views. The challenge here was to use the same dataset for both.
+I did this project as a part of an assignment for the course CSE 578 - Data Visualization I took during my Master's degree. The main aim of the assignment was to think outside the box and create two charts to demonstrate contrasting views. The challenge here was to use the exact same dataset for both.
 
 I chose to present contrasting perspectives on Global Warming to examine the rate at which climate change has unfolded over the last century and derive insights into whether it is caused by human activities or simply natural climate fluctuations. 
 
@@ -110,6 +110,7 @@ Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies **->**
 Global-mean monthly, seasonal, and annual means, 1880-present, updated through most recent month _CSV_.
 
 **Data pre-processing**
-Both the charts use the same data. However, I have made a few simple modifications to the dataset -
-- Filtered the data to only contain the values starting from the Year 1980.
-- Aggregated the values of the 12 months of the year (Jan-Dec) each given in the dataset to get a "mean" for each year. This "mean" of each year is represented in the line charts.
+
+Both charts utilize identical data.
+1. Data from the year 1980 onwards.
+2. Values for each month (Jan-Dec) are aggregated to calculate the annual mean. The line charts represent the mean value for each year.
