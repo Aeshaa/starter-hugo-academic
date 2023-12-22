@@ -59,7 +59,7 @@ I did this project as a part of an assignment for the course CSE 578 - Data Visu
 
 I chose to present contrasting perspectives on Global Warming to examine the rate at which climate change has unfolded over the last century and derive insights into whether it is caused by human activities or simply natural climate fluctuations. 
 
-I use a couple of Rhetoric/Framing techniques to make the visualization appealing and effectively convey my point.
+I use a couple of Rhetoric/Framing techniques to make the visualization appealing and effectively convey the impact of how a few simple modifications on the visualization can manipulate the viewer's perception.
 
 **Why Global Warming?**
 
@@ -121,3 +121,14 @@ Global-mean monthly, seasonal, and annual means, 1880-present, updated through m
 Both charts utilize identical data.
 1. Values from the year 1980 onwards.
 2. Values for each month (Jan-Dec) are aggregated to calculate the annual mean. The line charts represent the mean value for each year.
+
+
+### Conclusion
+
+To conclude, we see how two visualizations from the same dataset tell conflicting stories about global warming. 
+
+The left chart, with its steep climb, suggests urgent human impact, while the right, with a stable trend, implies a more natural climate ebb and flow. The use of rhetoric, like manipulating scales and color schemes, highlights the power of visualization to shape perceptions. 
+
+This project emphasizes the need for responsible data representation to avoid misinformation.
+
+In an era where data plays a pivotal role in shaping public opinion and decisions, maintaining transparency and accuracy in data visualization is crucial. The intentional framing of data should not compromise the truth but rather empower individuals to make informed judgments about complex issues like climate change. As creators and consumers of visualizations, let us embrace a commitment to accuracy, ethical representation, and a nuanced understanding of the narratives woven through data.
