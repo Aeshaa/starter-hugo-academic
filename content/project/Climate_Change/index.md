@@ -43,28 +43,33 @@ slides: ""
 ---
 ### Introduction
 
-Take a quick look at the two graphs below. What do you see? What is the first thing that you notice?
+Take a quick look at the two graphs below. 
+
+What do you see? What is the first thing that you notice?
 
 ![screen reader text](trends1.png "")
 
-You probably thought - the graph on the left is steeply rising and the graph on the right is relatively constant.
+You probably thought that the graph on the left is steeply rising and the graph on the right is relatively constant.
 
 What if I told you that both of these graphs are created using the exact same data?
 
 Surprising, right? Take a minute and think about how is this possible.
 
-This is a project I did as a part of an assignment for the course CSE 578 - Data Visualization. The main aim of the assignment was to create two charts demonstrating contrasting views but the challenge was to do so using the same dataset.
+I did this project as a part of an assignment for the course CSE 578 - Data Visualization I took during my Master's degree. The main aim of the assignment was to create two charts demonstrating contrasting views with the challenge of using the same dataset for both.
 
-I decided to show opposing views on Global Warming that could help derive certain insights on if human involvement is a cause or is it just simple natural climate fluctuations and also the rate of climate change occurring over the past 100 years or so. 
+I chose to present contrasting perspectives on Global Warming to examine the rate at which climate change has unfolded over the last century and derive insights into whether it is caused by human activities or simply natural climate fluctuations. 
 
-I use a couple of Rhetoric/Framing techniques to make the visualization appealing and make my point that I will explain in a minute further ahead.
+I use a couple of Rhetoric/Framing techniques to make the visualization appealing and effectively convey my point.
 
 **Why Global Warming?**
 
 Climate change and global warming are controversial topics, with debates centering around the extent of human influence, the urgency of action, and the potential consequences. Proponents of immediate action argue that human activities are driving climate change with severe consequences, while skeptics may question the extent of human impact or the reliability of climate models.
 
+Let's go back to the charts and look at each of them closely now, shall we?
 
 ### Left Chart
+![screen reader text](left.png "")
+
 It visualizes rising global temperatures over time, emphasizing the correlation with human activities. It argues that humans have made significant damaging contributions to climate change and temperatures are in fact rising sharply, implying the urgency of the matter and immediate call-to-action.
 
 Some notable events that indicate strong human contribution are:
@@ -72,6 +77,8 @@ Some notable events that indicate strong human contribution are:
 2. We also see a high spike in the temperatures in 2011, that is when the Fukushima disaster occurred - yet another human-induced tragedy.
 
 ### Right Chart
+![screen reader text](right.png "")
+
 Contrastingly, the right chart takes a broader perspective and showcases a relatively stable graph, indicating that it's not a real threat. It tends to speak for the natural ebb and flow of climate conditions, suggesting that current warming trends may be part of a larger natural cycle rather than solely due to human influence.
 
 ### Rhetoric/Framing Techniques used:
