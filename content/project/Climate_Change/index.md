@@ -101,7 +101,7 @@ Conversely, the right chart is presented in a natural, earthy, and tranquil blue
 **Dataset Source:**
  [NASA's Climate Change Data](https://data.giss.nasa.gov/gistemp/)
 
-Navigate to:  
+From the link above, navigate to:  
 
 Tables of Global and Hemispheric Monthly Means and Zonal Annual Means **->**   
 
@@ -112,5 +112,5 @@ Global-mean monthly, seasonal, and annual means, 1880-present, updated through m
 **Data pre-processing**
 
 Both charts utilize identical data.
-1. Data from the year 1980 onwards.
+1. Values from the year 1980 onwards.
 2. Values for each month (Jan-Dec) are aggregated to calculate the annual mean. The line charts represent the mean value for each year.
