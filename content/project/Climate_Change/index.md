@@ -41,6 +41,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+> **Tech stack:** HTML, CSS, D3.js
 ### Introduction
 
 Take a quick look at the two graphs below. 
