@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Same Data, Conflicting Insights?"
-summary: " Visualizations "
+summary: " Crafted two visually compelling charts using the same dataset to depict divergent views on Global Warming, employing rhetoric and framing techniques to highlight the influence of subtle visualization tweaks on shaping viewer perception. "
 authors: []
 tags: 
   - Projects
@@ -43,6 +43,7 @@ slides: ""
 ---
 
 > **Tech stack:** HTML, CSS, D3.js
+
 ### Introduction
 
 Take a quick look at the two graphs below. 
