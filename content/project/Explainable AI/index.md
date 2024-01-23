@@ -43,4 +43,10 @@ url_video: ""
 slides: ""
 ---
 
-Researching on concept-based methods in Explainable AI, to maintain the interpretibility of adverserially trained deep learning models.
+Deep learning models have demonstrated remarkable performance in various applications, particularly in computer vision tasks. 
+
+However, these models are vulnerable to adversarial attacks, which can significantly compromise their performance. To address this, there have been attempts to incorporate adversarial signals during model training. 
+
+Unfortunately, doing so often results in reduced model interpretability. 
+
+This project proposes the development of a visualization system that enables deep learning models to resist adversarial attacks while maintaining their interpretability using concepts.
