@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Bechdel Test: Female Representation in Movies"
-summary: "  "
+summary: " Analyzing the imbalance of gender potrayal in films - and the surprising number of movies that do not make it to the cut! "
 authors: []
 tags: 
   - Projects
@@ -44,7 +44,16 @@ slides: ""
 
 
 ### Introduction
+<!-- Before we begin, have you heard of the Bechdel Test? 
 
+If not, allow me to share an anecdote - -->
+
+What is the Bechdel Test?
+
+There are 3 simple rules that the movie must follow to pass this -
+1. The movie must feature at least two women in it.  
+2. The women must talk to each other.  
+3. Their discussion must be about something other than a man.  
 
 ### Data
 
