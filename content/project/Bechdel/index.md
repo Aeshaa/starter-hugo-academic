@@ -70,7 +70,12 @@ To name a few -
 - The Prestige
 - The Shawshank Redemption
 
-The Bechdel Test first appeared in the comic in 1985. Almost 40 years on, we're not exactly doing very well addressing the core inequalities.
+As aggravating it is, I found the concept incredibly fascinating and decided to tinker with the data myself and see how it turns out!
+
+### Insights
+
+### Thoughts
+The Bechdel Test first appeared in the comic in 1985. Almost 40 years on, we're not exactly doing very well addressing the core gender inequalities.
 
 ### Data
 
