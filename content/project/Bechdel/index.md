@@ -74,7 +74,11 @@ As aggravating it is, I found the concept incredibly fascinating and decided to 
 
 ### Insights
 
+**1. Distribution of total movies release each year and the movies that passes the Bechdel Test**
 ![screen reader text](movie_release_years.png "")
+
+**2. Percentage of movies that passed the test of the total movies directed my each gender**
+![screen reader text](directors_gender_percentage_passed.png "")
 
 
 ### Thoughts
