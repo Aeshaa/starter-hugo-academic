@@ -74,6 +74,9 @@ As aggravating it is, I found the concept incredibly fascinating and decided to 
 
 ### Insights
 
+![screen reader text](movie_release_years.png "")
+
+
 ### Thoughts
 The Bechdel Test first appeared in the comic in 1985. Almost 40 years on, we're not exactly doing very well addressing the core gender inequalities.
 
