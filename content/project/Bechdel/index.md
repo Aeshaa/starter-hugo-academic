@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Bechdel Test: Female Representation in Movies"
-summary: " Analyzing the imbalance of gender potrayal in films - and the surprising number of movies that do not make it to the cut! "
+summary: " Analyzing the imbalance of gender potrayal in films - and the surprising number of movies that do not make the cut! "
 authors: []
 tags: 
   - Projects
@@ -50,11 +50,22 @@ If not, allow me to share an anecdote - -->
 
 What is the Bechdel Test?
 
-There are 3 simple rules that the movie must follow to pass this -
+It is a 3-question litmus test to gauge gender bias in movies. These are fairly basic questions -
+
 1. The movie must feature at least two women in it.  
 2. The women must talk to each other.  
 3. Their discussion must be about something other than a man.  
 
+Simple, right?
+
+Well, a surprising number of movies do not pass this simple test.
+
 ### Data
 
-**Dataset Source:**
+**Dataset Sources:**
+- [Top 10,000 IMDb Movies (1915 - 2023)](https://www.kaggle.com/datasets/willianoliveiragibin/10000-data-about-movies-1915-2023/data)
+
+- [Lead Actors' Gender](https://github.com/taubergm/HollywoodGenderData/blob/master/all_actors_movies_gender_gold.csv)
+
+- [Director's Gender](https://github.com/taubergm/HollywoodGenderData/blob/master/all_directors_gender.csv)
+
