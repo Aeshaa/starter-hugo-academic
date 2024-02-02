@@ -44,11 +44,13 @@ slides: ""
 
 
 ### Introduction
-<!-- Before we begin, have you heard of the Bechdel Test? 
+Before we begin, since we're talking about movies, imagine the following scene -
 
-If not, allow me to share an anecdote - -->
+Two women discussing movies; one remarks that she will only see a film if it meets a certain set of requirements involving female characters and their depiction.
 
-What is the Bechdel Test?
+This exact dialog that started as a joke in one of Alison Bechdel's comic strip - “Dykes to Watch Out For”, sparked a critical conversation and often comes up when thinking about female representation in media.
+
+**What exactly is the Bechdel Test?**
 
 It is a 3-question litmus test to gauge gender bias in movies. These are fairly basic questions -
 
@@ -58,14 +60,24 @@ It is a 3-question litmus test to gauge gender bias in movies. These are fairly 
 
 Simple, right?
 
-Well, a surprising number of movies do not pass this simple test.
+Well, a surprising number of movies do not pass this simple test!
+
+To name a few -
+- Bullet Train
+- Dead Poet's Society
+- Slumdog Millionaire
+- The Lord of the Rings trilogy
+- The Prestige
+- The Shawshank Redemption
+
+The Bechdel Test first appeared in the comic in 1985. Almost 40 years on, we're not exactly doing very well addressing the core inequalities.
 
 ### Data
 
 **Dataset Sources:**
 - [Top 10,000 IMDb Movies (1915 - 2023)](https://www.kaggle.com/datasets/willianoliveiragibin/10000-data-about-movies-1915-2023/data)
 
-- [Lead Actors' Gender](https://github.com/taubergm/HollywoodGenderData/blob/master/all_actors_movies_gender_gold.csv)
+- [Actors' Gender](https://github.com/taubergm/HollywoodGenderData/blob/master/all_actors_movies_gender_gold.csv)
 
-- [Director's Gender](https://github.com/taubergm/HollywoodGenderData/blob/master/all_directors_gender.csv)
+- [Directors' Gender](https://github.com/taubergm/HollywoodGenderData/blob/master/all_directors_gender.csv)
 
