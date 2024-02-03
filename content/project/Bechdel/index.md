@@ -64,7 +64,7 @@ Two women discussing movies; one remarks that she will only see a film if it mee
 
 This exact dialog that started as a joke in one of Alison Bechdel's comic strip - “Dykes to Watch Out For”, sparked a critical conversation and often comes up when thinking about female representation in media.
 
-It is a 3-question litmus test to gauge gender bias in movies. These are fairly basic questions -
+It is a simple 3-question litmus test to gauge gender bias in movies. These are fairly basic questions -
 
 1. The movie must feature at least two women in it.  
 2. The women must talk to each other.  
@@ -82,8 +82,8 @@ It is a 3-question litmus test to gauge gender bias in movies. These are fairly 
 ![screen reader text](directors_gender_percentage_passed.png "")
 
 
-### Thoughts
-The Bechdel Test first appeared in the comic in 1985. Almost 40 years on, we're not exactly doing very well addressing the core gender inequalities.
+<!-- ### Thoughts
+The Bechdel Test first appeared in the comic in 1985. Almost 40 years on, we're not exactly doing very well addressing the core gender inequalities. -->
 
 ### Data
 
