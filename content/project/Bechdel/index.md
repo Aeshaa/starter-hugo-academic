@@ -44,25 +44,9 @@ slides: ""
 
 
 ### Introduction
-Before we begin, since we're talking about movies, imagine the following scene -
 
-Two women discussing movies; one remarks that she will only see a film if it meets a certain set of requirements involving female characters and their depiction.
+Do you know what do the following movies have in common?
 
-This exact dialog that started as a joke in one of Alison Bechdel's comic strip - “Dykes to Watch Out For”, sparked a critical conversation and often comes up when thinking about female representation in media.
-
-**What exactly is the Bechdel Test?**
-
-It is a 3-question litmus test to gauge gender bias in movies. These are fairly basic questions -
-
-1. The movie must feature at least two women in it.  
-2. The women must talk to each other.  
-3. Their discussion must be about something other than a man.  
-
-Simple, right?
-
-Well, a surprising number of movies do not pass this simple test!
-
-To name a few -
 - Bullet Train
 - Dead Poet's Society
 - Slumdog Millionaire
@@ -70,7 +54,21 @@ To name a few -
 - The Prestige
 - The Shawshank Redemption
 
-As aggravating it is, I found the concept incredibly fascinating and decided to tinker with the data myself and see how it turns out!
+They all fail the Bechdel Test.
+
+**What exactly is the Bechdel Test?**
+
+Since we're talking about movies, imagine the following scene -
+
+Two women discussing movies; one remarks that she will only see a film if it meets a certain set of requirements involving female characters and their depiction.
+
+This exact dialog that started as a joke in one of Alison Bechdel's comic strip - “Dykes to Watch Out For”, sparked a critical conversation and often comes up when thinking about female representation in media.
+
+It is a 3-question litmus test to gauge gender bias in movies. These are fairly basic questions -
+
+1. The movie must feature at least two women in it.  
+2. The women must talk to each other.  
+3. Their discussion must be about something other than a man.  
 
 ### Insights
 
