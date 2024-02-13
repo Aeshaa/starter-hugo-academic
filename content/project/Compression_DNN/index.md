@@ -19,8 +19,8 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Left"
-  preview_only: false
+  focal_point: "Right"
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -31,7 +31,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "uploads/DNN.pdf"
 url_slides: ""
 url_video: ""
 
