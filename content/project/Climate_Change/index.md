@@ -29,7 +29,7 @@ image:
   icon_pack: fab
   icon: github
 
-url_code: "https://github.com/aesha15/climate-change-viz"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
