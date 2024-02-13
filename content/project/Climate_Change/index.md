@@ -23,13 +23,13 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Code
-#   url: https://github.com/aesha15/climate-change-viz
-#   icon_pack: fab
-#   icon: github
+links:
+- name: 
+  url: https://github.com/aesha15/climate-change-viz
+  icon_pack: fab
+  icon: github
 
-url_code: "https://github.com/aesha15/climate-change-viz"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
