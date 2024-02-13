@@ -44,5 +44,10 @@ slides: ""
 ---
 
 1. Pruning
+![screen reader text](pruning.png )
+
 2. Quantization
+![screen reader text](quantization.png )
+
 3. Knowledge Distillation
+![screen reader text](kd.jpg )
