@@ -72,7 +72,7 @@ Here, the student learns from the master. Knowledge Distillation transfers insig
 
 ### Use Cases
 - Computing in Space
-- Deployment to Low-Power and Resource-Limited Edge Devices (e.g. mobile phones, IoT devices, etc.)
+- Deployment to Low-Power and Resource-Limited Edge Devices (e.g. mobile phones, IoT devices)
 - Hardware onboard Autonomous Vehicles
 - Medical Imaging (requiring high accuracy with strict size and resources) 
 
