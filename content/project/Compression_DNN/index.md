@@ -58,7 +58,7 @@ Each of these offer unique solutions to the challenge at hand.
 #### 1. Network Pruning:
 ![screen reader text](pruning.png )
 
-This method scultps away the excess, leaving only what's essential. Network Pruning trims down redundant parameters while preserving accuracy. It does so by systematically removing less impactful components like neurons or filters, we achieve remarkable reductions in model size and inference time.
+This method scultps away the excess, leaving only what's essential. Network Pruning trims down redundant parameters while preserving accuracy. By systematically removing less impactful components like neurons or filters, we achieve remarkable reductions in model size and inference time.
 
 #### 2. Quantization:
 ![screen reader text](quantization.png )
@@ -68,7 +68,7 @@ Precision meets efficiency through Quantization. By reducing the bit-width of we
 #### 3. Knowledge Distillation:
 ![screen reader text](kd.jpg )
 
-Here, the student learns from the master. Knowledge Distillation transfers insights from a larger, more complex model to a leaner counterpart, enabling faster training and lower memory requirements. Fine-tuning temperature controls the balance between accuracy and generalization, paving the way for smarter, more efficient models.
+Here, the student learns from the master. Knowledge Distillation transfers insights from a larger, more complex model to a leaner counterpart, enabling faster training and lower memory requirements. Fine-tuning the hyperparameters controls the balance between accuracy and generalization, paving the way for smarter, more efficient models.
 
 ### Use Cases
 - Computing in Space
