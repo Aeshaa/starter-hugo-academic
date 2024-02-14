@@ -72,7 +72,8 @@ Here, the student learns from the master. Knowledge Distillation transfers insig
 
 ### Use Cases
 - Computing in Space
--  
+- Deployment to Edge Devices (e.g. mobile phones)
+
 
 ### Conclusion
 Through meticulous experimentation and analysis, we've explored the power of these techniques. From scheduled pruning strategies to dynamic quantization approaches, each method offers a unique pathway to efficiency. By combining these techniques, we sprint quickly towards optimal performance, minimizing trade-offs and maximizing utility.
