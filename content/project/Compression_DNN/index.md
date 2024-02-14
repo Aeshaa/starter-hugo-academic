@@ -80,6 +80,6 @@ Here, the student learns from the master. Knowledge Distillation transfers insig
 ### Conclusion
 Through meticulous experimentation and analysis, we've explored the power of these techniques. From scheduled pruning strategies to dynamic quantization approaches, each method offers a unique pathway to efficiency. By combining these techniques, we sprint quickly towards optimal performance, minimizing trade-offs and maximizing utility.
 
-As we look to the future, the possibilities are limitless. From exploring new datasets like CIFAR-10 to testing scalability with larger models, combining multiple techniques and pushing the boundaries of innovation, we aim to further improve efficiency.
+As we look to the future, the possibilities are limitless. From exploring datasets like CIFAR-10 to testing scalability with larger models, and combining multiple techniques, we aim to further improve efficiency.
 
 In the ever-evolving landscape of deep learning, one thing is clear – efficiency is the key to unlocking the full potential of AI, making it accessible to all, regardless of device or resource constraints. With model compression techniques leading the charge, the future of AI is brighter than ever before.
