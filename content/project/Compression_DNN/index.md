@@ -19,7 +19,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: "Right"
   preview_only: true
 
 # Custom links (optional).
@@ -70,6 +70,9 @@ Precision meets efficiency through Quantization. By reducing the bit-width of we
 
 Here, the student learns from the master. Knowledge Distillation transfers insights from a larger, more complex model to a leaner counterpart, enabling faster training and lower memory requirements. Fine-tuning temperature controls the balance between accuracy and generalization, paving the way for smarter, more efficient models.
 
+### Use Cases
+- Computing in Space
+-  
 
 ### Conclusion
 Through meticulous experimentation and analysis, we've explored the power of these techniques. From scheduled pruning strategies to dynamic quantization approaches, each method offers a unique pathway to efficiency. By combining these techniques, we sprint quickly towards optimal performance, minimizing trade-offs and maximizing utility.
