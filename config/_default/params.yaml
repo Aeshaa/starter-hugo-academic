@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: earth
-  theme_night: coffee
+  theme_day: 1950s
+  # theme_night: coffee
   font: rose
   font_size: m
 
@@ -34,7 +34,7 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: false
     highlight_active_link: true
 
