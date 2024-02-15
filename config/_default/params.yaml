@@ -6,11 +6,11 @@
 # Appearance
 
 appearance:
-  mode: system
-  color: purple
+  # mode: system
+  color: indigo
   # theme_day: ocean
   # theme_night: coffee
-  # font: rose
+  font: rose
   font_size: m
 
 # SEO
