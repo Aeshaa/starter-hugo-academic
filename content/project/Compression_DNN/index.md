@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Compression Techniques for Deep Neural Networks"
-summary: "Exploring compression techniques for Deep Neural Networks (DNNs), aiming to enhance efficiency and performance for deployment on resource-constrained devices, with a focus on inference time, memory footprint, and prediction accuracy evaluation."
+summary: "Exploring compression techniques for Deep Neural Networks (DNNs), aiming to enhance efficiency and performance for model deployment."
 authors: []
 tags: 
   - Research
