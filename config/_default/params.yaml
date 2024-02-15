@@ -6,9 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
+  mode: system
+  color: purple
+  # theme_day: ocean
   # theme_night: coffee
-  font: rose
+  # font: rose
   font_size: m
 
 # SEO
