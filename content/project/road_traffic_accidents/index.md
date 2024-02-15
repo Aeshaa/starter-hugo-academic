@@ -32,8 +32,8 @@ links:
   icon: github
 
 url_code: ""
-url_pdf: "uploads/RTA.pdf"
-url_slides: ""
+url_pdf: ""
+url_slides: "uploads/RTA.pdf"
 url_video: ""
 
 # Slides (optional).
@@ -41,7 +41,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "uploads/RTA.pptx"
+slides: ""
 ---
 - Led and implemented an end-to-end Machine Learning project pipeline to classify Accident Severity from a highly imbalanced dataset.
 - Scrutinized four predictive models - highlighting Random Forest and k-Nearest Neighbors as top performers.
