@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  # mode: light
-  # color: teal
-  theme_day: zinc
+  mode: light
+  color: zinc
+  # theme_day: zinc
   # theme_night: coffee
   font: rose
   font_size: m
