@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  color: teal
-  theme_day: ocean
+  # color: teal
+  theme_day: teal
   # theme_night: coffee
   font: rose
   font_size: m
