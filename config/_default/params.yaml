@@ -6,9 +6,7 @@
 # Appearance
 
 appearance:
-  mode: light
-  color: zinc
-  # theme_day: zinc
+  theme_day: ocean
   # theme_night: coffee
   font: rose
   font_size: m
