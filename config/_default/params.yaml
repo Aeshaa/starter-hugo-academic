@@ -8,7 +8,7 @@
 appearance:
   mode: light
   color: teal
-  # theme_day: ocean
+  theme_day: teal
   # theme_night: coffee
   font: rose
   font_size: m
