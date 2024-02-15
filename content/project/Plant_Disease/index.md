@@ -21,7 +21,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -32,7 +32,7 @@ links:
   icon: github
 
 url_code: ""
-url_pdf: ""
+url_pdf: "uploads/Plant Disease.pdf"
 url_slides: ""
 url_video: ""
 
