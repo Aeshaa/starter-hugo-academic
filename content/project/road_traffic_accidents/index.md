@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-draft: true
+# draft: true
 title: "Analysis of Machine Learning Models for Road Traffic Accidents"
 summary: "An end-to-end project comparing, evaluating and optimizing various ML models for classifying accident severity."
 authors: []
