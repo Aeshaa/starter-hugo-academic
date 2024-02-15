@@ -3,7 +3,7 @@
 
 # draft: true
 title: "Plant Leaf Disease Detection and Identification"
-summary: "An end-to-end Machine Learning project to classify Healthy and Diseased Plant Leaves."
+summary: "An end-to-end Machine Learning project to classify healthy and diseased plant leaves."
 authors: []
 tags: 
   # - Machine Learning

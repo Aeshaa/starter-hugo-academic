@@ -3,14 +3,14 @@
 
 draft: true
 title: "Analysis of Machine Learning Models for Road Traffic Accidents"
-summary: "An end-to-end Machine Learning project pipeline to classify Accident Severity"
+summary: "An end-to-end project comparing, evaluating and optimizing various ML models for classifying accident severity."
 authors: []
 tags: 
   # - Machine Learning
   # - Image Processing
   - Projects
 categories: []
-date: 2022-09-06T03:56:13-07:00
+# date: 2022-09-06T03:56:13-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -25,15 +25,15 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: 
+  url: https://github.com/aesha15/road-traffic-accidents
+  icon_pack: fab
+  icon: github
 
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "uploads/RTA.pdf"
+url_slides: "uploads/RTA.pptx"
 url_video: ""
 
 # Slides (optional).
@@ -44,6 +44,7 @@ url_video: ""
 slides: ""
 ---
 - Led and implemented an end-to-end Machine Learning project pipeline to classify Accident Severity from a highly imbalanced dataset.
-- Scrutinized four predictive models and boosted the model accuracy up to 84% by incorporating hyper-parameter tuning.
+- Scrutinized four predictive models - highlighting Random Forest and k-Nearest Neighbors as top performers.
+- Boosted the model accuracy up to 84% by incorporating hyper-parameter tuning.
 - Evaluated the models using Cross-Validation, and performed Feature Importance to make informed conclusions.
 
