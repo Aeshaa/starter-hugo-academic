@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Fairness in Machine Learning: Detecting and Removing Gender Bias in Language Models"
-summary: "Addressing gender biases in language models by implementing and testing two debiasing approaches"
+summary: "Addressing gender bias in language models by implementing and testing two debiasing approaches."
 authors: []
 tags: 
   - Research
@@ -19,8 +19,8 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
-  preview_only: true
+  focal_point: "Right"
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

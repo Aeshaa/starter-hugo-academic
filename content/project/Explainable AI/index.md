@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Explainable AI for Adversarially Trained Deep-Learning Models"
-summary: "Designing a visualization system for training models that resist adversarial attacks and remain interpretable"
+summary: "Designing a visualization system for training models that resist adversarial attacks and remain interpretable."
 authors: []
 tags: 
   - Research
