@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: forest
+  theme_day: earth
 #   theme_night: coffee
   font: rose
   font_size: m
@@ -35,14 +35,14 @@ header:
     show_logo: true
     show_language: false
     show_day_night: false
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year}'
+    notice: '© {year} Aesha Shah'
     license:
       enable: true
       allow_derivatives: false
