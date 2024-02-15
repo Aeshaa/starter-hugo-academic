@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-draft: true
+# draft: true
 title: "Plant Leaf Disease Detection and Identification"
 summary: "An end-to-end Machine Learning project to classify Healthy and Diseased Plant Leaves"
 authors: []
@@ -25,11 +25,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: 
+  url: https://github.com/aesha15/plant-disease-classification
+  icon_pack: fab
+  icon: github
 
 url_code: ""
 url_pdf: ""
@@ -43,4 +43,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-- Led and implemented an end-to-end Machine Learning projectto classify Healthy and Diseased Plant Leaves.
+Led and implemented an end-to-end Machine Learning project that leverages image augmentation techniques to accurately identify plant diseases from leaf morphology, offering a cost-effective and efficient alternative to traditional disease control methods, ultimately aiming to aid in enhancing food security in underdeveloped regions.
