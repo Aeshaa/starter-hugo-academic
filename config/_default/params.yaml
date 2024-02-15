@@ -7,7 +7,7 @@
 
 appearance:
   mode: light
-  color: indigo
+  color: teal
   # theme_day: ocean
   # theme_night: coffee
   font: rose
