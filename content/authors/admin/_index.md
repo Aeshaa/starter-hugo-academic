@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Science in Computer Science (Artificial Intelligence)
+    - course: Master of Science in Computer Science
       institution: Arizona State University
       year: 2023
     - course: Bachelor of Engineering in Computer Science and Engineering
